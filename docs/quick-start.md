@@ -17,7 +17,7 @@ Browse the [Claude Code Marketplace](https://github.com/AutisticAF/autisticaf-cl
 claude plugin install github:AutisticAF/claude-code-apple-dev-plugin
 ```
 
-Skills become available as `/apple:skill-name` across all your projects.
+Skills become available as `/apple-dev:skill-name` across all your projects.
 
 ### Local Development
 

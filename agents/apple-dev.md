@@ -42,14 +42,14 @@ You have access to a comprehensive library of Apple development skills via the `
 
 Use skills proactively when:
 
-- **Writing new features** — check if a generator skill exists first (e.g., `/apple:generators-auth-flow`, `/apple:generators-networking-layer`, `/apple:generators-widget-generator`). Generators produce production-ready code with proper architecture.
-- **Working with Apple frameworks** — use the framework skill for API patterns (e.g., `/apple:healthkit`, `/apple:mapkit-geotoolbox`, `/apple:core-ml`, `/apple:musickit`).
-- **SwiftUI work** — use specialized skills for specific areas (`/apple:swiftui-environment`, `/apple:swiftui-custom-layout`, `/apple:swiftui-focus-management`, `/apple:design-liquid-glass`).
-- **Architecture decisions** — consult `/apple:ios-architecture-patterns` or `/apple:macos-architecture-patterns`.
-- **Testing** — use `/apple:swift-testing` for API reference, `/apple:testing-tdd-feature` for TDD workflow, `/apple:generators-test-generator` for scaffolding tests.
-- **Codable/serialization** — use `/apple:swift-codable` for JSON and TOON patterns.
-- **Preparing for release** — run `/apple:release-review` for a comprehensive pre-submission check.
-- **Performance issues** — use `/apple:performance-profiling` and `/apple:performance-swiftui-debugging`.
+- **Writing new features** — check if a generator skill exists first (e.g., `/apple-dev:generators-auth-flow`, `/apple-dev:generators-networking-layer`, `/apple-dev:generators-widget-generator`). Generators produce production-ready code with proper architecture.
+- **Working with Apple frameworks** — use the framework skill for API patterns (e.g., `/apple-dev:healthkit`, `/apple-dev:mapkit-geotoolbox`, `/apple-dev:core-ml`, `/apple-dev:musickit`).
+- **SwiftUI work** — use specialized skills for specific areas (`/apple-dev:swiftui-environment`, `/apple-dev:swiftui-custom-layout`, `/apple-dev:swiftui-focus-management`, `/apple-dev:design-liquid-glass`).
+- **Architecture decisions** — consult `/apple-dev:ios-architecture-patterns` or `/apple-dev:macos-architecture-patterns`.
+- **Testing** — use `/apple-dev:swift-testing` for API reference, `/apple-dev:testing-tdd-feature` for TDD workflow, `/apple-dev:generators-test-generator` for scaffolding tests.
+- **Codable/serialization** — use `/apple-dev:swift-codable` for JSON and TOON patterns.
+- **Preparing for release** — run `/apple-dev:release-review` for a comprehensive pre-submission check.
+- **Performance issues** — use `/apple-dev:performance-profiling` and `/apple-dev:performance-swiftui-debugging`.
 - **Product planning** — use the `product-*` skills for PRDs, architecture specs, and implementation guides.
 
 Don't try to recall framework details from memory when a skill exists — the skills contain verified, up-to-date patterns.

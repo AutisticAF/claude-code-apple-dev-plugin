@@ -1,4 +1,4 @@
-# Contributing to Claude Code Apple Plugin
+# Contributing to Claude Code Apple Dev Plugin
 
 Thank you for considering contributing! These skills help the entire Apple development community build better apps with Claude Code.
 
@@ -212,7 +212,7 @@ cd /path/to/your-swift-project
 claude --plugin-dir /path/to/claude-code-apple-dev-plugin
 
 # Verify your skill appears
-# Try invoking it: /apple:your-skill-name
+# Try invoking it: /apple-dev:your-skill-name
 ```
 
 ### 3. Review Checklist

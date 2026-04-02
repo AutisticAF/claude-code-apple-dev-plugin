@@ -1,4 +1,4 @@
-# Claude Code Apple Plugin
+# Claude Code Apple Dev Plugin
 
 A Claude Code plugin with 166 skills for Apple platform development — iOS, macOS, iPadOS, watchOS, tvOS, and visionOS. Covers everything from product ideation to App Store submission, with code generators, architecture patterns, framework guides, and workflow tools.
 
@@ -14,7 +14,7 @@ This plugin is heavily based on the skills from[claude-code-apple-skills](https:
 # Install from GitHub
 claude plugin install github:AutisticAF/claude-code-apple-dev-plugin
 
-# Skills are available as /apple:skill-name in any project
+# Skills are available as /apple-dev:skill-name in any project
 ```
 
 ### Local Development
