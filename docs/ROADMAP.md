@@ -1,111 +1,124 @@
 # Skills Roadmap
 
-Skills tracking based on Apple documentation and gap analysis.
+Tracking all skills in the Apple Dev plugin, organized by Apple framework and feature area.
 
 ## Current Coverage
 
 ### Apple Intelligence
 | Doc | Skill | Status |
 |-----|-------|--------|
-| FoundationModels-Using-on-device-LLM-in-your-app.md | `apple-intelligence/foundation-models` | ✅ Complete |
-| Implementing-Visual-Intelligence-in-iOS.md | `apple-intelligence/visual-intelligence` | ✅ Complete |
-| AppIntents-Updates.md | `apple-intelligence/app-intents` | ✅ Complete |
+| FoundationModels-Using-on-device-LLM-in-your-app.md | `apple-intelligence-foundation-models` | ✅ Complete |
+| Implementing-Visual-Intelligence-in-iOS.md | `apple-intelligence-visual-intelligence` | ✅ Complete |
+| AppIntents-Updates.md | `apple-intelligence-app-intents` | ✅ Complete |
 
 ### Design
 | Doc | Skill | Status |
 |-----|-------|--------|
-| SwiftUI-Implementing-Liquid-Glass-Design.md | `design/liquid-glass` | ✅ Complete |
-| AppKit-Implementing-Liquid-Glass-Design.md | `design/liquid-glass` | ✅ Complete |
-| UIKit-Implementing-Liquid-Glass-Design.md | `design/liquid-glass` | ✅ Complete |
-| WidgetKit-Implementing-Liquid-Glass-Design.md | `design/liquid-glass` | ✅ Complete |
-| Animation patterns (springs, transitions, keyframes) | `design/animation-patterns` | ✅ Complete |
+| SwiftUI-Implementing-Liquid-Glass-Design.md | `design-liquid-glass` | ✅ Complete |
+| AppKit-Implementing-Liquid-Glass-Design.md | `design-liquid-glass` | ✅ Complete |
+| UIKit-Implementing-Liquid-Glass-Design.md | `design-liquid-glass` | ✅ Complete |
+| WidgetKit-Implementing-Liquid-Glass-Design.md | `design-liquid-glass` | ✅ Complete |
+| Animation patterns (springs, transitions, keyframes) | `design-animation-patterns` | ✅ Complete |
 
 ### SwiftUI Features
 | Doc | Skill | Status |
 |-----|-------|--------|
-| SwiftUI-AlarmKit-Integration.md | `swiftui/alarmkit` | ✅ Complete |
-| SwiftUI-WebKit-Integration.md | `swiftui/webkit` | ✅ Complete |
-| SwiftUI-Styled-Text-Editing.md | `swiftui/text-editing` | ✅ Complete |
-| SwiftUI-New-Toolbar-Features.md | `swiftui/toolbars` | ✅ Complete |
-| Swift-Charts-3D-Visualization.md | `swiftui/charts-3d` | ✅ Complete |
+| SwiftUI-AlarmKit-Integration.md | `swiftui-alarmkit` | ✅ Complete |
+| SwiftUI-WebKit-Integration.md | `swiftui-webkit` | ✅ Complete |
+| SwiftUI-Styled-Text-Editing.md | `swiftui-text-editing` | ✅ Complete |
+| SwiftUI-New-Toolbar-Features.md | `swiftui-toolbars` | ✅ Complete |
+| Swift-Charts-3D-Visualization.md | `swiftui-charts-3d` | ✅ Complete |
 
 ### Data & Persistence
 | Doc | Skill | Status |
 |-----|-------|--------|
-| SwiftData-Class-Inheritance.md | `swiftdata/inheritance` | ✅ Complete |
+| SwiftData-Class-Inheritance.md | `swiftdata-inheritance` | ✅ Complete |
 
 ### Swift Language
 | Doc | Skill | Status |
 |-----|-------|--------|
-| Swift-Concurrency-Updates.md | `swift/concurrency` | ✅ Complete |
-| Swift-InlineArray-Span.md | `swift/memory` | ✅ Complete |
+| Swift-Concurrency-Updates.md | `swift-concurrency-patterns` | ✅ Complete |
+| Swift-InlineArray-Span.md | `swift-memory` | ✅ Complete |
+| Swift macro system (freestanding & attached) | `swift-macros` | ✅ Complete |
+| Swift Testing framework (@Test, #expect) | `swift-testing` | ✅ Complete |
+| Swift Package Manager (multi-module, plugins) | `swift-package-manager` | ✅ Complete |
+| Regex builder DSL and typed regex | `swift-regex-builder` | ✅ Complete |
+| CLI apps, ArgumentParser, SwifTeaUI TUIs, distribution | `swift-cli-apps` | ✅ Complete |
+| Codable, JSONEncoder/Decoder, custom coding keys | `swift-codable` | ✅ Complete |
 
 ### Frameworks
 | Doc | Skill | Status |
 |-----|-------|--------|
-| MapKit-GeoToolbox-PlaceDescriptors.md | `mapkit/geotoolbox` | ✅ Complete |
-| Foundation-AttributedString-Updates.md | `foundation/attributed-string` | ✅ Complete |
-| StoreKit-Updates.md | `generators/paywall-generator` | ✅ Complete |
+| MapKit-GeoToolbox-PlaceDescriptors.md | `mapkit-geotoolbox` | ✅ Complete |
+| Foundation-AttributedString-Updates.md | `foundation-attributed-string` | ✅ Complete |
+| StoreKit-Updates.md | `generators-paywall-generator` | ✅ Complete |
 
 ### Performance
 | Topic | Skill | Status |
 |-------|-------|--------|
-| Instruments workflows, profiling | `performance/profiling` | ✅ Complete |
-| SwiftUI debugging, view identity, body re-evaluation | `performance/swiftui-debugging` | ✅ Complete |
+| Instruments workflows, profiling | `performance-profiling` | ✅ Complete |
+| SwiftUI debugging, view identity, body re-evaluation | `performance-swiftui-debugging` | ✅ Complete |
 
 ### Navigation & Architecture
 | Topic | Skill | Status |
 |-------|-------|--------|
-| NavigationStack, NavigationSplitView, TabView | `ios/navigation-patterns` | ✅ Complete |
-| Actor isolation, TaskGroup, AsyncSequence | `swift/concurrency-patterns` | ✅ Complete |
+| NavigationStack, NavigationSplitView, TabView | `ios-navigation-patterns` | ✅ Complete |
+| Actor isolation, TaskGroup, AsyncSequence | `swift-concurrency-patterns` | ✅ Complete |
+| MVVM, MV, TCA, DI, coordinators, repository | `ios-architecture-patterns` | ✅ Complete |
 
 ### Platform Specific
 | Topic | Skill | Status |
 |-------|-------|--------|
-| iPad Stage Manager, multi-window, drag & drop | `ios/ipad-patterns` | ✅ Complete |
-| Migration guides (CoreData→SwiftData, UIKit→SwiftUI, etc.) | `ios/migration-patterns` | ✅ Complete |
-| Assistive Access | `ios/assistive-access` | ✅ Complete |
-| visionOS widgets | `visionos/widgets` | ✅ Complete |
+| iPad Stage Manager, multi-window, drag & drop | `ios-ipad-patterns` | ✅ Complete |
+| Migration guides (CoreData→SwiftData, UIKit→SwiftUI, etc.) | `ios-migration-patterns` | ✅ Complete |
+| Assistive Access | `ios-assistive-access` | ✅ Complete |
+| tvOS focus engine, top shelf, TV navigation | `tvos` | ✅ Complete |
+| visionOS spatial computing, immersive spaces, RealityKit | `visionos-spatial-computing` | ✅ Complete |
+| visionOS widgets | `visionos-widgets` | ✅ Complete |
+| CarPlay templates, navigation, audio, communication | `carplay` | ✅ Complete |
 
 ### Security
 | Topic | Skill | Status |
 |-------|-------|--------|
 | Secure Storage, Biometric Auth, Network Security | `security` | ✅ Complete |
-| Privacy manifests, required reason APIs | `security/privacy-manifests` | ✅ Complete |
+| Privacy manifests, required reason APIs | `security-privacy-manifests` | ✅ Complete |
 
-### Generators (New)
+### Generators
 | Skill | Status |
 |-------|--------|
-| `generators/live-activity-generator` | ✅ Complete |
-| `generators/tipkit-generator` | ✅ Complete |
-| `generators/cloudkit-sync` | ✅ Complete |
-| `generators/http-cache` | ✅ Complete |
-| `generators/pagination` | ✅ Complete |
-| `generators/image-loading` | ✅ Complete |
-| `generators/share-card` | ✅ Complete |
-| `generators/social-export` | ✅ Complete |
-| `generators/subscription-lifecycle` | ✅ Complete |
-| `generators/referral-system` | ✅ Complete |
-| `generators/watermark-engine` | ✅ Complete |
-| `generators/streak-tracker` | ✅ Complete |
-| `generators/milestone-celebration` | ✅ Complete |
-| `generators/whats-new` | ✅ Complete |
-| `generators/lapsed-user` | ✅ Complete |
-| `generators/usage-insights` | ✅ Complete |
-| `generators/variable-rewards` | ✅ Complete |
-| `generators/consent-flow` | ✅ Complete |
-| `generators/account-deletion` | ✅ Complete |
-| `generators/permission-priming` | ✅ Complete |
-| `generators/force-update` | ✅ Complete |
-| `generators/state-restoration` | ✅ Complete |
-| `generators/debug-menu` | ✅ Complete |
-| `generators/offline-queue` | ✅ Complete |
-| `generators/feedback-form` | ✅ Complete |
-| `generators/announcement-banner` | ✅ Complete |
-| `generators/quick-win-session` | ✅ Complete |
-| `generators/spotlight-indexing` | ✅ Complete |
-| `generators/app-clip` | ✅ Complete |
-| `generators/screenshot-automation` | ✅ Complete |
+| `generators-live-activity-generator` | ✅ Complete |
+| `generators-tipkit-generator` | ✅ Complete |
+| `generators-cloudkit-sync` | ✅ Complete |
+| `generators-http-cache` | ✅ Complete |
+| `generators-pagination` | ✅ Complete |
+| `generators-image-loading` | ✅ Complete |
+| `generators-share-card` | ✅ Complete |
+| `generators-social-export` | ✅ Complete |
+| `generators-subscription-lifecycle` | ✅ Complete |
+| `generators-referral-system` | ✅ Complete |
+| `generators-watermark-engine` | ✅ Complete |
+| `generators-streak-tracker` | ✅ Complete |
+| `generators-milestone-celebration` | ✅ Complete |
+| `generators-whats-new` | ✅ Complete |
+| `generators-lapsed-user` | ✅ Complete |
+| `generators-usage-insights` | ✅ Complete |
+| `generators-variable-rewards` | ✅ Complete |
+| `generators-consent-flow` | ✅ Complete |
+| `generators-account-deletion` | ✅ Complete |
+| `generators-permission-priming` | ✅ Complete |
+| `generators-force-update` | ✅ Complete |
+| `generators-state-restoration` | ✅ Complete |
+| `generators-debug-menu` | ✅ Complete |
+| `generators-offline-queue` | ✅ Complete |
+| `generators-feedback-form` | ✅ Complete |
+| `generators-announcement-banner` | ✅ Complete |
+| `generators-quick-win-session` | ✅ Complete |
+| `generators-spotlight-indexing` | ✅ Complete |
+| `generators-app-clip` | ✅ Complete |
+| `generators-screenshot-automation` | ✅ Complete |
+| `generators-background-processing` | ✅ Complete |
+| `generators-app-extensions` | ✅ Complete |
+| `generators-data-export` | ✅ Complete |
 
 ### Monetization
 | Topic | Skill | Status |
@@ -115,80 +128,42 @@ Skills tracking based on Apple documentation and gap analysis.
 ### Testing & TDD
 | Topic | Skill | Status |
 |-------|-------|--------|
-| Characterization tests for safe refactoring | `testing/characterization-test-generator` | ✅ Complete |
-| Red-green-refactor bug fix workflow | `testing/tdd-bug-fix` | ✅ Complete |
-| TDD for new features | `testing/tdd-feature` | ✅ Complete |
-| Protocol/interface contract tests | `testing/test-contract` | ✅ Complete |
-| Pre-refactor safety gate | `testing/tdd-refactor-guard` | ✅ Complete |
-| SwiftUI snapshot/visual regression | `testing/snapshot-test-setup` | ✅ Complete |
-| Test data factories (builder + static) | `testing/test-data-factory` | ✅ Complete |
-| Integration test harness with mocks | `testing/integration-test-scaffold` | ✅ Complete |
+| Characterization tests for safe refactoring | `testing-characterization-test-generator` | ✅ Complete |
+| Red-green-refactor bug fix workflow | `testing-tdd-bug-fix` | ✅ Complete |
+| TDD for new features | `testing-tdd-feature` | ✅ Complete |
+| Protocol/interface contract tests | `testing-test-contract` | ✅ Complete |
+| Pre-refactor safety gate | `testing-tdd-refactor-guard` | ✅ Complete |
+| SwiftUI snapshot/visual regression | `testing-snapshot-test-setup` | ✅ Complete |
+| Test data factories (builder + static) | `testing-test-data-factory` | ✅ Complete |
+| Integration test harness with mocks | `testing-integration-test-scaffold` | ✅ Complete |
 
 ### Growth, Legal & Business
 | Topic | Skill | Status |
 |-------|-------|--------|
-| App analytics interpretation, AARRR funnels | `growth/analytics-interpretation` | ✅ Complete |
-| Press/media outreach, press kits, pitch templates | `growth/press-media` | ✅ Complete |
-| Community building, social media, building in public | `growth/community-building` | ✅ Complete |
-| Business entity, taxes, revenue, hiring | `growth/indie-business` | ✅ Complete |
-| Privacy policies, Terms of Service, EULAs | `legal/privacy-policy` | ✅ Complete |
+| App analytics interpretation, AARRR funnels | `growth-analytics-interpretation` | ✅ Complete |
+| Press/media outreach, press kits, pitch templates | `growth-press-media` | ✅ Complete |
+| Community building, social media, building in public | `growth-community-building` | ✅ Complete |
+| Business entity, taxes, revenue, hiring | `growth-indie-business` | ✅ Complete |
+| Privacy policies, Terms of Service, EULAs | `legal-privacy-policy` | ✅ Complete |
 
-### App Store (New)
+### App Store
 | Topic | Skill | Status |
 |-------|-------|--------|
-| Apple Search Ads campaign management | `app-store/apple-search-ads` | ✅ Complete |
-| App Store rejection handling and appeals | `app-store/rejection-handler` | ✅ Complete |
+| Apple Search Ads campaign management | `app-store-apple-search-ads` | ✅ Complete |
+| App Store rejection handling and appeals | `app-store-rejection-handler` | ✅ Complete |
 
-### Product (New)
+### Product
 | Topic | Skill | Status |
 |-------|-------|--------|
-| TestFlight beta testing strategy | `product/beta-testing` | ✅ Complete |
-| Localization market prioritization | `product/localization-strategy` | ✅ Complete |
+| TestFlight beta testing strategy | `product-beta-testing` | ✅ Complete |
+| Localization market prioritization | `product-localization-strategy` | ✅ Complete |
 
 ### Core ML & On-Device ML
 | Topic | Skill | Status |
 |-------|-------|--------|
 | Core ML, Vision, NaturalLanguage, model integration | `core-ml` | ✅ Complete |
 
-### Generators (New)
-| Skill | Status |
-|-------|--------|
-| `generators/background-processing` | ✅ Complete |
-| `generators/app-extensions` | ✅ Complete |
-| `generators/data-export` | ✅ Complete |
-
-### Migration Guides (New)
-| Topic | Skill | Status |
-|-------|-------|--------|
-| Objective-C to Swift incremental migration | `ios/migration-patterns/objc-to-swift` | ✅ Complete |
-| StoreKit 1 to StoreKit 2 migration | `ios/migration-patterns/storekit-migration` | ✅ Complete |
-
-### Skill Improvements
-| Skill | Improvement | Status |
-|-------|------------|--------|
-| `generators/test-generator` | Added frontmatter, decision tree, templates.md | ✅ Complete |
-| `generators/feature-flags` | Full rewrite with proper generator structure + templates.md | ✅ Complete |
-| `generators/widget-generator` | Full rewrite with proper generator structure + templates.md | ✅ Complete |
-| `watchos/` | Added complications.md, health-fitness.md, widgets-for-watch.md | ✅ Complete |
-
-### Swift Language (New)
-| Topic | Skill | Status |
-|-------|-------|--------|
-| Swift macro system (freestanding & attached) | `swift/macros` | ✅ Complete |
-| Swift Testing framework (@Test, #expect) | `swift/testing` | ✅ Complete |
-| Swift Package Manager (multi-module, plugins) | `swift/package-manager` | ✅ Complete |
-| Regex builder DSL and typed regex | `swift/regex-builder` | ✅ Complete |
-| CLI apps, ArgumentParser, SwifTeaUI TUIs, distribution | `swift/cli-apps` | ✅ Complete |
-| Codable, JSONEncoder/Decoder, custom coding keys | `swift/codable` | ✅ Complete |
-
-### Platform Coverage (New)
-| Topic | Skill | Status |
-|-------|-------|--------|
-| tvOS focus engine, top shelf, TV navigation | `tvos` | ✅ Complete |
-| visionOS spatial computing, immersive spaces, RealityKit | `visionos/spatial-computing` | ✅ Complete |
-| CarPlay templates, navigation, audio, communication | `carplay` | ✅ Complete |
-
-### Frameworks (New)
+### Standalone Frameworks
 | Topic | Skill | Status |
 |-------|-------|--------|
 | Camera capture, video playback, audio sessions | `avfoundation` | ✅ Complete |
@@ -202,41 +177,40 @@ Skills tracking based on Apple documentation and gap analysis.
 | Game Center leaderboards, achievements, matchmaking | `gamekit` | ✅ Complete |
 | Peer-to-peer discovery and data transfer | `multipeer-connectivity` | ✅ Complete |
 
-### Architecture & Patterns (New)
+### SwiftUI Coverage
 | Topic | Skill | Status |
 |-------|-------|--------|
-| MVVM, MV, TCA, DI, coordinators, repository | `ios/architecture-patterns` | ✅ Complete |
+| Layout protocol, flow layout, radial layout, AnyLayout | `swiftui-custom-layout` | ✅ Complete |
+| Transferable, drag-and-drop, ShareLink, clipboard | `swiftui-transferable` | ✅ Complete |
+| Sheets, popovers, inspectors, detents, alerts | `swiftui-presentations` | ✅ Complete |
+| @FocusState, keyboard toolbar, submit triggers | `swiftui-focus-management` | ✅ Complete |
+| @Observable, Observation framework, migration | `swiftui-observable` | ✅ Complete |
+| Environment, preferences, custom keys, @Entry | `swiftui-environment` | ✅ Complete |
 
-### SwiftUI Coverage (New)
+### SwiftData
 | Topic | Skill | Status |
 |-------|-------|--------|
-| Layout protocol, flow layout, radial layout, AnyLayout | `swiftui/custom-layout` | ✅ Complete |
-| Transferable, drag-and-drop, ShareLink, clipboard | `swiftui/transferable` | ✅ Complete |
-| Sheets, popovers, inspectors, detents, alerts | `swiftui/presentations` | ✅ Complete |
-| @FocusState, keyboard toolbar, submit triggers | `swiftui/focus-management` | ✅ Complete |
-| @Observable, Observation framework, migration | `swiftui/observable` | ✅ Complete |
-| Environment, preferences, custom keys, @Entry | `swiftui/environment` | ✅ Complete |
+| Modeling, queries, predicates, migration, ModelActor | `swiftdata-patterns` | ✅ Complete |
 
-### SwiftData (New)
+### Accessibility
 | Topic | Skill | Status |
 |-------|-------|--------|
-| Modeling, queries, predicates, migration, ModelActor | `swiftdata/patterns` | ✅ Complete |
+| VoiceOver, Dynamic Type, contrast, motion audit | `ios-accessibility-audit` | ✅ Complete |
 
-### Accessibility (New)
-| Topic | Skill | Status |
-|-------|-------|--------|
-| VoiceOver, Dynamic Type, contrast, motion audit | `ios/accessibility-audit` | ✅ Complete |
-
-### Text Rendering (New)
+### Text Rendering
 | Topic | Skill | Status |
 |-------|-------|--------|
 | TextKit 2, NSTextLayoutManager, STTextView patterns | `textkit` | ✅ Complete |
 | CoreText low-level text layout and glyph rendering | `coretext` | ✅ Complete |
 
-### Third-Party Integrations (New)
-| Topic | Skill | Status |
-|-------|-------|--------|
-| Settings screens (SettingsKit + native SwiftUI) | `generators/settings-kit` | ✅ Complete (merged settings-screen) |
+### Skill Improvements
+| Skill | Improvement | Status |
+|-------|------------|--------|
+| `generators-test-generator` | Added frontmatter, decision tree, templates.md | ✅ Complete |
+| `generators-feature-flags` | Full rewrite with proper generator structure + templates.md | ✅ Complete |
+| `generators-widget-generator` | Full rewrite with proper generator structure + templates.md | ✅ Complete |
+| `watchos` | Added complications.md, health-fitness.md, widgets-for-watch.md | ✅ Complete |
+| `generators-settings-kit` | Merged settings-screen into settings-kit | ✅ Complete |
 
 ---
 
@@ -256,7 +230,7 @@ skills/
 │   └── examples/          # Example output (optional)
 ```
 
-Skills that were previously in a category use a `{category}-{name}` prefix (e.g., `generators-auth-flow`, `ios-navigation-patterns`). Standalone skills have no prefix (e.g., `healthkit`, `arkit`).
+Skills that belong to a logical group use a `{group}-{name}` prefix (e.g., `generators-auth-flow`, `ios-navigation-patterns`). Standalone skills have no prefix (e.g., `healthkit`, `arkit`).
 
 ### Skills by Prefix
 

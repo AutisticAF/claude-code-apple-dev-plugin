@@ -44,7 +44,7 @@ Enhancement suggestions are tracked as GitHub issues. Include:
 
 We welcome new skills! Before creating one:
 
-1. **Check the [roadmap](docs/ROADMAP.md)**: See if it's already planned
+1. **Check the [roadmap](docs/roadmap.md)**: See if it's already planned
 2. **Open an issue**: Discuss the skill idea first
 3. **Follow guidelines**: Use `skills/shared-skill-creator/SKILL.md` as a guide
 
@@ -67,7 +67,7 @@ We welcome new skills! Before creating one:
 1. **Fork the repository** on GitHub
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/claude-code-apple-dev-plugin.git
+   git clone https://github.com/AutisticAF/claude-code-apple-dev-plugin.git
    cd claude-code-apple-dev-plugin
    ```
 3. **Create a branch**:
@@ -267,7 +267,7 @@ fix: Update swiftui-environment for iOS 18 onChange API
 ## Resources
 
 - [shared-skill-creator](skills/shared-skill-creator/) — Guide for creating new skills
-- [docs/ROADMAP.md](docs/ROADMAP.md) — Planned skills
+- [docs/roadmap.md](docs/roadmap.md) — Planned skills
 - [Apple HIG](https://developer.apple.com/design/human-interface-guidelines/)
 - [Claude Code Docs](https://code.claude.com/docs)
 

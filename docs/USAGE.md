@@ -1,4 +1,4 @@
-# How to Use These Skills
+# How to Use the Apple Dev Plugin
 
 ## New App: Idea to App Store
 
@@ -175,6 +175,12 @@ Yes, but not recommended. Specs build on each other. Skipping means less structu
 ### Do I need to invoke skills manually?
 No. Just describe what you want. Claude picks the right skill automatically.
 
+### How do I install the plugin?
+Install from the [Claude Code Marketplace](https://github.com/AutisticAF/autisticaf-claude-code-marketplace):
+```bash
+claude plugin install github:AutisticAF/claude-code-apple-dev-plugin
+```
+
 ### How do generators work with existing code?
 Claude reads your project first, then generates code that matches your patterns and structure.
 
@@ -188,5 +194,8 @@ Just the platform-specific review skills. Everything else (generators, product w
 watchOS: Yes, there's a dedicated `watchos` skill covering Watch apps, complications, health/fitness, and widgets.
 visionOS: Yes, there are `visionos-spatial-computing` (immersive spaces, RealityKit) and `visionos-widgets` skills.
 
+### What is the Apple Dev agent?
+The plugin includes an `apple-dev` agent that proactively uses skills based on your project context. Run it with `claude --agent apple-dev`.
+
 ### Where are the detailed skill docs?
-Each skill has a `SKILL.md` with full documentation. Browse `skills/` directory.
+Each skill has a `SKILL.md` with full documentation. Browse the `skills/` directory.

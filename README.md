@@ -79,7 +79,7 @@ skills/                       # 166 skills (flat directory structure)
 
 **Existing app?** Say: _"Review my code"_ or _"Add [feature]"_
 
-See **[docs/USAGE.md](docs/USAGE.md)** for a complete guide.
+See **[docs/usage.md](docs/usage.md)** for a complete guide.
 
 ## Generator Skills
 
@@ -157,8 +157,8 @@ The `apple-dev` agent establishes modern Apple development defaults:
 
 | Doc                                | Description                         |
 | ---------------------------------- | ----------------------------------- |
-| [docs/USAGE.md](docs/USAGE.md)     | How to use for new vs existing apps |
-| [docs/ROADMAP.md](docs/ROADMAP.md) | Skills roadmap and status           |
+| [docs/usage.md](docs/usage.md)     | How to use for new vs existing apps |
+| [docs/roadmap.md](docs/roadmap.md) | Skills roadmap and status           |
 | [CONTRIBUTING.md](CONTRIBUTING.md) | How to contribute                   |
 
 ## Contributing

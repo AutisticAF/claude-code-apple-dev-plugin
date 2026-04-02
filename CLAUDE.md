@@ -79,7 +79,7 @@ Use `skills/shared-skill-creator/SKILL.md` as the guide. Key requirements:
 
 Apple documentation files were used as source material when creating these skills. Skills contain the relevant API patterns inline.
 
-See `docs/ROADMAP.md` for planned skills based on available Apple docs.
+See `docs/roadmap.md` for planned skills based on available Apple docs.
 
 ## Conventions
 

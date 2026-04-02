@@ -1,63 +1,46 @@
 # Quick Start Guide
 
-Get up and running with Claude Code Apple Skills in under 5 minutes!
+Get up and running with the Apple Dev plugin for Claude Code in under a minute.
 
 ## Prerequisites
 
 - Claude Code installed
-- iOS/macOS/Swift project with `.claude/` directory
+- An iOS, macOS, or Swift project
 
-## Installation (1 minute)
+## Installation
 
-### Option 1: Full Install
+### From the Marketplace
 
-```bash
-# Clone the repository
-git clone https://github.com/rshankras/claude-code-apple-skills.git
-
-# Navigate to your project
-cd /path/to/your/project
-
-# Create skills directory if it doesn't exist
-mkdir -p .claude/skills
-
-# Copy all skills
-cp -r /path/to/claude-code-apple-skills/skills/* .claude/skills/
-```
-
-### Option 2: Individual Categories
-
-Copy only the categories you need:
+Browse the [Claude Code Marketplace](https://github.com/AutisticAF/autisticaf-claude-code-marketplace) and install:
 
 ```bash
-# Just generators (63 skills)
-cp -r /path/to/claude-code-apple-skills/skills/generators* .claude/skills/
-
-# Just testing/TDD (8 skills)
-cp -r /path/to/claude-code-apple-skills/skills/testing* .claude/skills/
-
-# Just iOS review skills
-cp -r /path/to/claude-code-apple-skills/skills/ios* .claude/skills/
+claude plugin install github:AutisticAF/claude-code-apple-dev-plugin
 ```
 
-### Option 3: Global Install
+Skills become available as `/apple:skill-name` across all your projects.
 
-Install once, available in all projects:
+### Local Development
 
 ```bash
-cp -r /path/to/claude-code-apple-skills/skills/* ~/.claude/skills/
+git clone https://github.com/AutisticAF/claude-code-apple-dev-plugin.git
+claude --plugin-dir ./claude-code-apple-dev-plugin
 ```
 
-## Verification (30 seconds)
+### With the Apple Dev Agent
 
-Check that skills are installed:
+The plugin includes a specialized agent that proactively uses skills based on your context:
 
 ```bash
-ls .claude/skills/
-# Should show: generators  ios  macos  testing  monetization  product  ...
+claude --agent apple-dev
 ```
 
-## First Use (2 minutes)
+Or during local development:
+
+```bash
+claude --plugin-dir ./claude-code-apple-dev-plugin --agent apple-dev
+```
+
+## First Use
 
 ### Just Describe What You Want
 
@@ -156,10 +139,9 @@ Vague: "Add payments"
 
 ### Skill Not Activating
 
-1. Check skill is in `.claude/skills/` directory
-2. Verify YAML front matter is valid: `head -5 .claude/skills/testing/SKILL.md`
-3. Use explicit trigger phrases from the skill's "When This Skill Activates" section
-4. Try: "Use the [skill-name] skill to review this"
+1. Verify the plugin is installed: `claude plugin list`
+2. Use explicit trigger phrases from the skill's "When This Skill Activates" section
+3. Try: "Use the [skill-name] skill to review this"
 
 ### Wrong Skill Activates
 
