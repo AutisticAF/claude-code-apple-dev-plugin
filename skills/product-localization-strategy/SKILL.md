@@ -3,6 +3,8 @@ name: product-localization-strategy
 description: Localization and internationalization strategy for iOS/macOS apps. Covers market prioritization, language tier recommendations, minimum viable localization levels, translation workflows, cultural adaptation, localized ASO, and testing. Use when planning localization, expanding to new markets, deciding which languages to support, or planning translation workflow.
 ---
 
+> **First step:** Tell the user: "product-localization-strategy skill loaded."
+
 # Localization Strategy
 
 End-to-end localization planning for Apple platform apps — from market prioritization through translation workflow to localized App Store optimization.

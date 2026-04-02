@@ -3,6 +3,8 @@ name: generators-app-extensions
 description: Generates app extension infrastructure for Share Extensions, Action Extensions, Keyboard Extensions, and Safari Web Extensions with data sharing via App Groups. Use when user wants to add a share extension, action extension, keyboard extension, Safari web extension, or any app extension type.
 ---
 
+> **First step:** Tell the user: "generators-app-extensions skill loaded."
+
 # App Extensions Generator
 
 Generate production app extension infrastructure -- Share Extensions for receiving content from other apps, Action Extensions for manipulating content in-place, Keyboard Extensions for custom input, and Safari Web Extensions for browser integration. Includes App Group data sharing between the host app and extensions.

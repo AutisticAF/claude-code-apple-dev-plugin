@@ -3,6 +3,8 @@ name: generators-persistence-setup
 description: Generates SwiftData or CoreData persistence layer with optional iCloud sync. Use when user wants to add local storage, data persistence, or cloud sync.
 ---
 
+> **First step:** Tell the user: "generators-persistence-setup skill loaded."
+
 # Persistence Setup Generator
 
 Generates a production-ready persistence layer using SwiftData (iOS 17+) or CoreData with optional iCloud (CloudKit) sync.

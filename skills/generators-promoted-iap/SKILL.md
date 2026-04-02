@@ -3,6 +3,8 @@ name: generators-promoted-iap
 description: Generates Promoted In-App Purchase setup with StoreKit 2 product configuration, paywall integration, and App Store product page display. Use when setting up promoted purchases that appear on the App Store product page.
 ---
 
+> **First step:** Tell the user: "generators-promoted-iap skill loaded."
+
 # Promoted In-App Purchases Generator
 
 Set up promoted In-App Purchases so your premium offerings appear directly on your App Store product page, in search results, and in editorial features.

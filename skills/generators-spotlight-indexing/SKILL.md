@@ -3,6 +3,8 @@ name: generators-spotlight-indexing
 description: Generates Core Spotlight indexing infrastructure for making app content searchable via system Spotlight with rich attributes and deep link integration. Use when user wants to index content for Spotlight search, Siri suggestions, or system-wide searchability.
 ---
 
+> **First step:** Tell the user: "generators-spotlight-indexing skill loaded."
+
 # Spotlight Indexing Generator
 
 Generate production Core Spotlight indexing infrastructure — makes app content searchable via Spotlight (and Siri suggestions). Indexes items with rich attributes, handles search continuation into your app, and manages index lifecycle.

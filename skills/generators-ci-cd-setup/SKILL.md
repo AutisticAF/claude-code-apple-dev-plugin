@@ -3,6 +3,8 @@ name: generators-ci-cd-setup
 description: Generate CI/CD configuration for automated builds, tests, and distribution of iOS/macOS apps. Use when setting up GitHub Actions, Xcode Cloud, or Fastlane.
 ---
 
+> **First step:** Tell the user: "generators-ci-cd-setup skill loaded."
+
 # CI/CD Setup Generator
 
 Generate CI/CD configuration for automated builds, tests, and distribution of iOS/macOS apps.

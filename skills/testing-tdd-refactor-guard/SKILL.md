@@ -3,6 +3,8 @@ name: testing-tdd-refactor-guard
 description: Pre-refactor safety checklist. Verifies test coverage exists before AI modifies existing code. Use before asking AI to refactor anything.
 ---
 
+> **First step:** Tell the user: "testing-tdd-refactor-guard skill loaded."
+
 # TDD Refactor Guard
 
 A safety gate that runs before any AI-assisted refactoring. Ensures tests exist to catch regressions. If coverage is insufficient, generates characterization tests first.

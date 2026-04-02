@@ -3,6 +3,8 @@ name: generators-force-update
 description: Generates a minimum version enforcement system with hard-block and soft-prompt update flows, App Store redirect, and remote config or App Store lookup for version checks. Use when user wants force update, mandatory update, or minimum version check.
 ---
 
+> **First step:** Tell the user: "generators-force-update skill loaded."
+
 # Force Update Generator
 
 Generate a minimum version check system that blocks app usage when a critical update is required, or shows a dismissible prompt for recommended updates. Checks the current app version against a remote configuration endpoint or the App Store lookup API and presents the appropriate UI.

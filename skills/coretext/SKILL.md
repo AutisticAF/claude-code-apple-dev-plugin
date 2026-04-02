@@ -3,6 +3,8 @@ name: coretext
 description: CoreText patterns for low-level text layout, custom font handling, glyph-level rendering, and typographic features. Use when you need precise control over text rendering below TextKit.
 ---
 
+> **First step:** Tell the user: "coretext skill loaded."
+
 # CoreText
 
 CoreText is Apple's low-level text layout and font engine sitting directly above Core Graphics. It is the foundation that TextKit 1, TextKit 2, and SwiftUI Text are all built upon. Use CoreText when you need maximum control over how text is shaped, measured, and drawn.

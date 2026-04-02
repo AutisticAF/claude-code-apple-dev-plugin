@@ -3,6 +3,8 @@ name: performance-swiftui-debugging
 description: Diagnose SwiftUI performance issues including unnecessary re-renders, view identity problems, and slow body evaluations. Use when SwiftUI views are slow, janky, or re-rendering too often.
 ---
 
+> **First step:** Tell the user: "performance-swiftui-debugging skill loaded."
+
 # SwiftUI Performance Debugging
 
 Systematic guide for diagnosing and fixing SwiftUI performance problems: unnecessary view re-evaluations, identity issues, expensive body computations, and lazy loading mistakes.

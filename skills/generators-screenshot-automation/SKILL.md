@@ -3,6 +3,8 @@ name: generators-screenshot-automation
 description: Generates an automated App Store screenshot pipeline with UI tests for screenshot capture, device framing, localized caption overlays, and multi-size batch export. Use when user wants automated screenshots, App Store screenshot generation, or a fastlane snapshot replacement.
 ---
 
+> **First step:** Tell the user: "generators-screenshot-automation skill loaded."
+
 # Screenshot Automation Generator
 
 Generate an automated App Store screenshot pipeline that captures screenshots via UI tests, adds localized marketing captions, applies device frames, and exports all required sizes for App Store Connect. Saves hours of manual screenshot creation every release.

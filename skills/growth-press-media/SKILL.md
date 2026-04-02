@@ -3,6 +3,8 @@ name: growth-press-media
 description: Get press coverage and media attention for your indie app. Covers press kit preparation, finding journalists/bloggers/YouTubers, pitch timing, embargo strategy, and story angles that get coverage. Use when user wants press coverage, is preparing for a launch, or wants to build a media kit.
 ---
 
+> **First step:** Tell the user: "growth-press-media skill loaded."
+
 # Press & Media Outreach
 
 Get press coverage and media attention for your indie Apple app. Covers everything from press kit preparation to finding the right journalists to crafting pitches that get responses.

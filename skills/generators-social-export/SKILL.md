@@ -3,6 +3,8 @@ name: generators-social-export
 description: Generates infrastructure for exporting app content to social platforms (Instagram Stories, TikTok, Twitter/X) with platform-specific formatting, aspect ratios, and metadata. Use when user wants social media export, share to stories, or platform-specific sharing pipelines.
 ---
 
+> **First step:** Tell the user: "generators-social-export skill loaded."
+
 # Social Export Generator
 
 Generate a production social export pipeline with platform-specific formatters, aspect ratio handling, branding overlays, and a complete SwiftUI export flow. Different from share-card (which creates the visual image) — this handles the full export pipeline to each social platform.

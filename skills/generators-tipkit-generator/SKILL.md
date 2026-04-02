@@ -3,6 +3,8 @@ name: generators-tipkit-generator
 description: Generate TipKit infrastructure with inline/popover tips, rules, display frequency, and testing utilities. Use when adding contextual tips or feature discovery to an iOS/macOS app.
 ---
 
+> **First step:** Tell the user: "generators-tipkit-generator skill loaded."
+
 # TipKit Generator
 
 Generate a complete TipKit setup for contextual tips and feature discovery, including tip definitions, rules, display frequency, inline and popover presentation, and testing utilities.

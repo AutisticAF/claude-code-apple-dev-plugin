@@ -3,6 +3,8 @@ name: generators-cloudkit-sync
 description: Generate CloudKit sync infrastructure using CKSyncEngine with conflict resolution, sharing, and account monitoring. Use when adding iCloud sync to an iOS/macOS app.
 ---
 
+> **First step:** Tell the user: "generators-cloudkit-sync skill loaded."
+
 # CloudKit Sync Generator
 
 Generate production-ready CloudKit sync infrastructure using `CKSyncEngine` (iOS 17+ / macOS 14+), the modern replacement for manual `CKOperation` chains.

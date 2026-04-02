@@ -3,6 +3,8 @@ name: generators-usage-insights
 description: Generates user-facing usage statistics, activity summaries, and personalized insights dashboards (weekly recaps, year-in-review, Spotify Wrapped-style). Use when user wants to show usage stats, activity insights, or shareable recap screens. Different from analytics-setup which sends data to a backend — this shows insights to the USER on-device.
 ---
 
+> **First step:** Tell the user: "generators-usage-insights skill loaded."
+
 # Usage Insights Generator
 
 Generate a production usage insights system that records user activity events with SwiftData, computes personalized insights (streaks, most active day, top categories), and displays them in a dashboard with insight cards, period pickers, trend indicators, and optional shareable recap screens.

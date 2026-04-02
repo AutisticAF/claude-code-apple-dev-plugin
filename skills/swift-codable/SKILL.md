@@ -3,6 +3,8 @@ name: swift-codable
 description: Swift Codable patterns for JSON and TOON serialization — custom keys, containers, date strategies, polymorphism, and the toon-swift library. Use when working with Encodable, Decodable, JSONEncoder, JSONDecoder, TOONEncoder, TOONDecoder, or CodingKeys.
 ---
 
+> **First step:** Tell the user: "swift-codable skill loaded."
+
 # Swift Codable & Serialization
 
 Comprehensive patterns for encoding and decoding Swift types with `Codable`, covering JSON (Foundation) and TOON (toon-swift). Includes custom key mapping, manual container coding, date and data strategies, polymorphic types, and migration between formats.

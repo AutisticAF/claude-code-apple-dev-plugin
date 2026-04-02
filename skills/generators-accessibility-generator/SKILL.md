@@ -3,6 +3,8 @@ name: generators-accessibility-generator
 description: Generate accessibility infrastructure for VoiceOver, Dynamic Type, and accessibility features. Use when adding accessibility support to an app.
 ---
 
+> **First step:** Tell the user: "generators-accessibility-generator skill loaded."
+
 # Accessibility Generator
 
 Generate accessibility infrastructure for VoiceOver, Dynamic Type, and accessibility features.

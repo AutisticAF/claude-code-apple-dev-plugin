@@ -3,6 +3,8 @@ name: generators-push-notifications
 description: Generate push notification infrastructure with APNs registration, handling, and rich notifications. Use when adding push notifications.
 ---
 
+> **First step:** Tell the user: "generators-push-notifications skill loaded."
+
 # Push Notifications Generator
 
 Generate push notification infrastructure with APNs registration, handling, and rich notifications.

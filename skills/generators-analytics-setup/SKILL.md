@@ -3,6 +3,8 @@ name: generators-analytics-setup
 description: Generates protocol-based analytics infrastructure with swappable providers (TelemetryDeck, Firebase, Mixpanel). Use when user wants to add analytics, track events, or set up telemetry.
 ---
 
+> **First step:** Tell the user: "generators-analytics-setup skill loaded."
+
 # Analytics Setup Generator
 
 Generate a protocol-based analytics infrastructure that makes it easy to swap providers without changing app code.

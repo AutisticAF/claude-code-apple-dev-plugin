@@ -3,6 +3,8 @@ name: generators-review-prompt
 description: Generates smart App Store review prompt infrastructure with configurable conditions and platform detection. Use when user wants to add review prompts, request ratings, or implement StoreKit reviews.
 ---
 
+> **First step:** Tell the user: "generators-review-prompt skill loaded."
+
 # Review Prompt Generator
 
 Generate smart App Store review prompting with configurable trigger conditions, platform detection, and proper timing logic.

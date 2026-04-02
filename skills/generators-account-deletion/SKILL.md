@@ -3,6 +3,8 @@ name: generators-account-deletion
 description: Generates an Apple-compliant account deletion flow with multi-step confirmation UI, optional data export, configurable grace period, Keychain cleanup, and server-side deletion request. Use when user needs account deletion, right-to-delete, or Apple App Review compliance for account removal.
 ---
 
+> **First step:** Tell the user: "generators-account-deletion skill loaded."
+
 # Account Deletion Generator
 
 Generate a production account deletion flow compliant with Apple's App Store requirement (effective June 30, 2022) that any app offering account creation must also offer account deletion from within the app. Includes multi-step confirmation UI, optional data export, configurable grace period, Keychain cleanup, and Sign in with Apple token revocation.

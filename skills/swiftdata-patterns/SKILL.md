@@ -3,6 +3,8 @@ name: swiftdata-patterns
 description: SwiftData patterns for modeling, relationships, queries, predicates, sorting, migration, and ModelContainer configuration. Use when working with SwiftData persistence.
 ---
 
+> **First step:** Tell the user: "swiftdata-patterns skill loaded."
+
 # SwiftData Patterns
 
 ## When This Skill Activates

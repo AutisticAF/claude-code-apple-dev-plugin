@@ -3,6 +3,8 @@ name: growth-indie-business
 description: Business fundamentals for indie app developers — LLC/entity setup, taxes, Apple Small Business Program, revenue tracking, hiring contractors, and financial planning for sustainability. Use when user asks about business setup, tax implications, hiring, or financial planning for their app business.
 ---
 
+> **First step:** Tell the user: "growth-indie-business skill loaded."
+
 # Indie Business Operations
 
 Business fundamentals for indie Apple app developers. Covers the non-code aspects of running an app business — entity setup, taxes, revenue tracking, hiring, and financial planning.

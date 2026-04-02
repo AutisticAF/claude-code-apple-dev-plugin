@@ -3,6 +3,8 @@ name: generators-deep-linking
 description: Generate deep linking infrastructure with URL schemes, Universal Links, and App Intents. Use when adding deep linking or Siri/Shortcuts support.
 ---
 
+> **First step:** Tell the user: "generators-deep-linking skill loaded."
+
 # Deep Linking Generator
 
 Generate deep linking infrastructure with URL schemes, Universal Links, and App Intents for Siri/Shortcuts.

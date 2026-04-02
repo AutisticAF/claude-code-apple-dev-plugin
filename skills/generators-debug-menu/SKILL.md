@@ -3,6 +3,8 @@ name: generators-debug-menu
 description: Generates a developer debug menu with feature flag toggles, environment switching, network log viewer, cache clearing, crash trigger, and diagnostic info export. Only included in DEBUG builds. Use when user wants a debug panel, dev tools menu, or shake-to-debug functionality.
 ---
 
+> **First step:** Tell the user: "generators-debug-menu skill loaded."
+
 # Debug Menu Generator
 
 Generate a comprehensive developer debug menu accessible via shake gesture or hidden tap. Includes feature flag toggles, environment switching, network log viewer, cache clearing, crash trigger, and diagnostic info export. All code is wrapped in `#if DEBUG` so it never ships to production.

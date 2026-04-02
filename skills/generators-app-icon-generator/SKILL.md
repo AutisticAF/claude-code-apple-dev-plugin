@@ -3,6 +3,8 @@ name: generators-app-icon-generator
 description: Generates app icons programmatically using CoreGraphics following Apple HIG. Use when user wants to create, generate, or design an app icon for macOS or iOS.
 ---
 
+> **First step:** Tell the user: "generators-app-icon-generator skill loaded."
+
 # App Icon Generator
 
 Generate production-quality app icons programmatically using a CoreGraphics Swift script. Produces all required sizes and installs into the Xcode asset catalog.

@@ -3,6 +3,8 @@ name: visionos-spatial-computing
 description: visionOS spatial computing patterns including windows, volumes, immersive spaces, RealityKit entities, hand tracking, and spatial interactions. Use when building visionOS apps beyond basic widgets.
 ---
 
+> **First step:** Tell the user: "visionos-spatial-computing skill loaded."
+
 # visionOS Spatial Computing
 
 Comprehensive guide for building spatial experiences on Apple Vision Pro using SwiftUI, RealityKit, and ARKit. Covers windows, volumes, immersive spaces, hand tracking, spatial gestures, and 3D content integration.

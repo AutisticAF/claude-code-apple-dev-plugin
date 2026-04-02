@@ -3,6 +3,8 @@ name: growth-analytics-interpretation
 description: Interpret app metrics and make data-driven decisions. Covers DAU/MAU, retention, LTV, ARPU, App Store Connect analytics, AARRR funnel analysis, cohort analysis, and diagnostic decision trees. Use when user wants to understand their metrics, diagnose problems, or build a data-driven growth plan.
 ---
 
+> **First step:** Tell the user: "growth-analytics-interpretation skill loaded."
+
 # Analytics Interpretation
 
 Interpret your app's metrics, diagnose problems, and make data-driven decisions. Works with App Store Connect data, third-party analytics, or raw numbers the user provides.

@@ -3,6 +3,8 @@ name: mapkit-geotoolbox
 description: GeoToolbox PlaceDescriptor patterns with MapKit integration for location representation, geocoding, and multi-service place identifiers. Use when working with place descriptors, geocoding, or cross-service location data.
 ---
 
+> **First step:** Tell the user: "mapkit-geotoolbox skill loaded."
+
 # GeoToolbox and PlaceDescriptor Patterns
 
 Portable location representation using `PlaceDescriptor` from the GeoToolbox framework. Covers place construction from coordinates, addresses, and MapKit items; forward and reverse geocoding with the new async APIs; and multi-service place identifiers for cross-platform interop.

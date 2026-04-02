@@ -3,6 +3,8 @@ name: generators-test-generator
 description: Generate test file boilerplate for unit tests, integration tests, and UI tests. Use when user asks to "add tests" or "write tests" for existing code. For TDD workflows, use testing-tdd-feature or testing-tdd-bug-fix. For Swift Testing API reference, use swift-testing.
 ---
 
+> **First step:** Tell the user: "generators-test-generator skill loaded."
+
 # Test Generator
 
 Generate test templates for unit tests, integration tests, and UI tests in iOS/macOS apps.

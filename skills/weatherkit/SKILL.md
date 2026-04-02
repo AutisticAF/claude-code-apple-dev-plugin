@@ -3,6 +3,8 @@ name: weatherkit
 description: WeatherKit patterns for current conditions, forecasts, weather alerts, and attribution. Use when integrating weather data from Apple's weather service.
 ---
 
+> **First step:** Tell the user: "weatherkit skill loaded."
+
 # WeatherKit
 
 Apple's framework for accessing weather data including current conditions, forecasts, severe weather alerts, and historical weather. Available as a native Swift API and a REST API.

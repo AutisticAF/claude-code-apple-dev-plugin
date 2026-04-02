@@ -3,6 +3,8 @@ name: swift-memory
 description: Swift 6.2 InlineArray and Span types for zero-overhead memory access, fixed-size collections, and safe pointer alternatives. Use when optimizing performance-critical code paths.
 ---
 
+> **First step:** Tell the user: "swift-memory skill loaded."
+
 # InlineArray and Span
 
 Guidance for Swift 6.2's low-level memory types: `InlineArray` for fixed-size inline storage without heap allocation, and `Span` for safe, zero-cost access to contiguous memory. These replace common uses of `UnsafeBufferPointer` and hand-tuned tuple storage with compiler-checked alternatives.

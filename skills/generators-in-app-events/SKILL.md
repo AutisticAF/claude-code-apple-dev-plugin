@@ -3,6 +3,8 @@ name: generators-in-app-events
 description: Generates In-App Event metadata templates for App Store Connect — event names, descriptions, badge types, image specs, and deep link configuration. Use when creating events for App Store visibility, engagement campaigns, or seasonal promotions.
 ---
 
+> **First step:** Tell the user: "generators-in-app-events skill loaded."
+
 # In-App Events Generator
 
 Generate complete In-App Event metadata ready for App Store Connect upload, including event cards, descriptions, deep link configuration, and promotional image specifications.

@@ -3,6 +3,8 @@ name: generators-watermark-engine
 description: Generates a watermark overlay system for images and video with configurable positioning, opacity, tiling, and paywall integration for automatic removal on subscription or purchase. Use when user wants to add branding, attribution, or free-tier watermarks to visual content.
 ---
 
+> **First step:** Tell the user: "generators-watermark-engine skill loaded."
+
 # Watermark Engine Generator
 
 Generate a production watermarking system with text/image/logo overlays, configurable positioning and opacity, tiled patterns, live SwiftUI preview, and automatic watermark removal on subscription purchase.

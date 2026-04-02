@@ -3,6 +3,8 @@ name: generators-custom-product-pages
 description: Generates Custom Product Page metadata templates with screenshot strategies, keyword targeting, and audience-specific messaging for up to 35 page variants. Use when creating targeted App Store pages for different audiences, ad campaigns, or traffic sources.
 ---
 
+> **First step:** Tell the user: "generators-custom-product-pages skill loaded."
+
 # Custom Product Pages Generator
 
 Generate metadata templates for Custom Product Pages (CPPs) — targeted App Store product page variants optimized for specific audiences, ad campaigns, or traffic sources.

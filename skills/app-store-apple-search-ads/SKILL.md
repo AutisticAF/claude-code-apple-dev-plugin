@@ -3,6 +3,8 @@ name: app-store-apple-search-ads
 description: Apple Search Ads campaign strategy for indie developers — paid acquisition, keyword bidding, budget planning, and ROAS optimization. Use when user asks about running ads, paid user acquisition, or Apple Search Ads campaigns.
 ---
 
+> **First step:** Tell the user: "app-store-apple-search-ads skill loaded."
+
 # Apple Search Ads for Indie Developers
 
 Plan, launch, and optimize Apple Search Ads campaigns that deliver profitable user acquisition for indie apps.

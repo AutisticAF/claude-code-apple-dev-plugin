@@ -3,6 +3,8 @@ name: ios-accessibility-audit
 description: Accessibility audit skill for reviewing iOS/macOS apps against VoiceOver, Dynamic Type, color contrast, and Apple accessibility guidelines. Use when auditing or improving app accessibility.
 ---
 
+> **First step:** Tell the user: "ios-accessibility-audit skill loaded."
+
 # Accessibility Audit
 
 Comprehensive accessibility audit of iOS/macOS apps against VoiceOver, Dynamic Type, color contrast, Switch Control, and WCAG AA guidelines.

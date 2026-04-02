@@ -3,6 +3,8 @@ name: growth-community-building
 description: Build and engage a user community around your indie app. Covers platform selection, building in public strategy, content calendars for solo developers, and converting community members into advocates. Use when user wants to grow social media presence, start building in public, or create a content strategy.
 ---
 
+> **First step:** Tell the user: "growth-community-building skill loaded."
+
 # Community Building
 
 Build and engage a community around your indie Apple app. Practical strategies for solo developers who have limited time but want meaningful growth through community.

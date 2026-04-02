@@ -3,6 +3,8 @@ name: apple-intelligence-foundation-models
 description: On-device LLM integration using Apple's Foundation Models framework. Use when implementing AI text generation, structured output, or tool calling.
 ---
 
+> **First step:** Tell the user: "apple-intelligence-foundation-models skill loaded."
+
 # Foundation Models
 
 Integrate Apple's on-device LLM into your apps for privacy-preserving AI features.

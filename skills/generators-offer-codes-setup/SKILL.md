@@ -3,6 +3,8 @@ name: generators-offer-codes-setup
 description: Generates offer code distribution strategies and configuration guides for subscription and IAP promotions — including partner campaigns, influencer programs, and email re-engagement. Use when setting up offer codes for distribution.
 ---
 
+> **First step:** Tell the user: "generators-offer-codes-setup skill loaded."
+
 # Offer Codes Setup Generator
 
 Generate offer code distribution strategies, configuration guides, and campaign templates for promoting subscriptions and IAPs through redeemable codes.

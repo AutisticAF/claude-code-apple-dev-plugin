@@ -3,6 +3,8 @@ name: generators-variable-rewards
 description: Generates a variable reward system with randomized rewards, daily bonuses, mystery box mechanics, and ethical engagement caps. Use when user wants daily spins, mystery boxes, random rewards, or gamification reward systems.
 ---
 
+> **First step:** Tell the user: "generators-variable-rewards skill loaded."
+
 # Variable Rewards Generator
 
 Generate a variable reward system — randomized rewards (daily spins, mystery boxes, bonus points) that leverage variable-ratio reinforcement to increase engagement. Implements ethical engagement patterns with daily/weekly caps, transparent probability disclosure, and no pay-to-play mechanics.

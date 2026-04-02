@@ -3,6 +3,8 @@ name: eventkit
 description: EventKit patterns for calendar events, reminders, and the EventKitUI views. Use when integrating calendar or reminder functionality.
 ---
 
+> **First step:** Tell the user: "eventkit skill loaded."
+
 # EventKit Development Guide
 
 Patterns for working with calendar events and reminders using EventKit and EventKitUI on Apple platforms.

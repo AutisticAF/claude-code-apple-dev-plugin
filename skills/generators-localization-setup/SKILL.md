@@ -3,6 +3,8 @@ name: generators-localization-setup
 description: Generate internationalization infrastructure for multi-language support in iOS/macOS apps. Use when adding localization or i18n.
 ---
 
+> **First step:** Tell the user: "generators-localization-setup skill loaded."
+
 # Localization Setup Generator
 
 Generate internationalization (i18n) infrastructure for multi-language support in iOS/macOS apps.

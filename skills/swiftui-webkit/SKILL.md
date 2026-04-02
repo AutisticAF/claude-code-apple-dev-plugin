@@ -3,6 +3,8 @@ name: swiftui-webkit
 description: WebKit integration in SwiftUI using WebView and WebPage for embedding web content, navigation, JavaScript interop, and customization. Use when embedding web content in SwiftUI apps.
 ---
 
+> **First step:** Tell the user: "swiftui-webkit skill loaded."
+
 # WebKit Integration for SwiftUI
 
 Embed and control web content in SwiftUI apps using the native `WebView` struct and `WebPage` observable class. Covers loading, navigation, JavaScript execution, and view customization.

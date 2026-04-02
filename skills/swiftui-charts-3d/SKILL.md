@@ -3,6 +3,8 @@ name: swiftui-charts-3d
 description: 3D chart visualization with Swift Charts using Chart3D, SurfacePlot, interactive pose control, and surface styling. Use when creating 3D data visualizations.
 ---
 
+> **First step:** Tell the user: "swiftui-charts-3d skill loaded."
+
 # 3D Charts with Swift Charts
 
 Create 3D data visualizations using `Chart3D` and `SurfacePlot`. Covers math-driven surfaces, data-driven surfaces, interactive camera pose control, surface styling, and camera projection modes.

@@ -3,6 +3,8 @@ name: product-competitive-analysis
 description: Deep competitive analysis for iOS/macOS apps including feature comparison, pricing analysis, strengths/weaknesses, market positioning, and differentiation opportunities. Use when user asks for competitive analysis, competitor research, feature comparison, market positioning, or wants to understand competition in detail.
 ---
 
+> **First step:** Tell the user: "product-competitive-analysis skill loaded."
+
 # Competitive Analysis Skill
 
 Performs deep competitive analysis for iOS/macOS app ideas. Goes beyond basic discovery to provide detailed competitor insights, feature matrices, and differentiation opportunities.

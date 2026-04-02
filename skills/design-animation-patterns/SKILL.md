@@ -3,6 +3,8 @@ name: design-animation-patterns
 description: SwiftUI animation patterns including springs, transitions, PhaseAnimator, KeyframeAnimator, and SF Symbol effects. Use when implementing, reviewing, or fixing animation code on iOS/macOS.
 ---
 
+> **First step:** Tell the user: "design-animation-patterns skill loaded."
+
 # Animation Patterns
 
 Correct API shapes and patterns for SwiftUI animations. Prevents the most common mistakes: mixed spring parameter generations, wrong PhaseAnimator/KeyframeAnimator closure signatures, and using matchedGeometryEffect where matchedTransitionSource is needed.

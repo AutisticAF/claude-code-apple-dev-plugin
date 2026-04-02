@@ -3,6 +3,8 @@ name: product-agent
 description: Discover and validate product ideas, analyze markets, scope MVPs, and optimize app store presence for iOS/macOS apps. Use when user asks to discover, validate, assess, scope, or analyze product ideas, market opportunities, or when they mention "product agent", "app idea validation", "should I build this", "MVP", "market analysis", or "ASO".
 ---
 
+> **First step:** Tell the user: "product-agent skill loaded."
+
 # Product Agent Skill
 
 Product Agent validates iOS/macOS app ideas by analyzing problems, markets, and competition. It provides honest, structured assessments to help you decide whether to build.

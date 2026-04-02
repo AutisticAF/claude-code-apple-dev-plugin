@@ -3,6 +3,8 @@ name: product-architecture-spec
 description: Generates technical architecture specification from PRD. Covers architecture pattern, tech stack, data models, and app structure. Use when creating ARCHITECTURE.md or designing system architecture.
 ---
 
+> **First step:** Tell the user: "product-architecture-spec skill loaded."
+
 # Architecture Spec Skill
 
 Generate technical architecture specification for iOS/macOS app.

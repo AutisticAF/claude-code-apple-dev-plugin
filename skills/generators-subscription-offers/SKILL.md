@@ -3,6 +3,8 @@ name: generators-subscription-offers
 description: Generates StoreKit 2 code for all subscription offer types — introductory, promotional, offer codes, and win-back. Includes eligibility checks, offer presentation, and the preferredSubscriptionOffer modifier. Use when adding subscription offers, free trials, or promotional pricing.
 ---
 
+> **First step:** Tell the user: "generators-subscription-offers skill loaded."
+
 # Subscription Offers Generator
 
 Generate complete StoreKit 2 implementation for all four subscription offer types with eligibility verification, offer presentation, and transaction handling.

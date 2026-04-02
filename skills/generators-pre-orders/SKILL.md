@@ -3,6 +3,8 @@ name: generators-pre-orders
 description: Generates pre-order setup guides and launch timeline templates for App Store pre-orders. Use when planning a pre-order strategy for a new app launch or major update.
 ---
 
+> **First step:** Tell the user: "generators-pre-orders skill loaded."
+
 # Pre-Orders Generator
 
 Generate pre-order configuration guides, launch timeline templates, and marketing coordination plans for App Store pre-orders.

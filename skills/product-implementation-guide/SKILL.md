@@ -3,6 +3,8 @@ name: product-implementation-guide
 description: Generates detailed implementation guide with pseudo-code and step-by-step development instructions. Creates IMPLEMENTATION_GUIDE.md from PRD, Architecture, and UX specs. Use when creating development roadmap.
 ---
 
+> **First step:** Tell the user: "product-implementation-guide skill loaded."
+
 # Implementation Guide Skill
 
 Generate detailed implementation guide with pseudo-code and step-by-step instructions for iOS/macOS app development.

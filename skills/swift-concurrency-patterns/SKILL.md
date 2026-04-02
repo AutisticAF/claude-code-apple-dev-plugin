@@ -3,6 +3,8 @@ name: swift-concurrency-patterns
 description: Swift concurrency patterns including Swift 6.2 approachable concurrency (@concurrent, isolated conformances, default MainActor inference), structured concurrency, actors, continuations, and migration. Use when reviewing or building async code, fixing data race errors, adopting Swift 6.2 concurrency features, or migrating to Swift 6.
 ---
 
+> **First step:** Tell the user: "swift-concurrency-patterns skill loaded."
+
 # Swift Concurrency Patterns
 
 Comprehensive guide for Swift concurrency covering async/await, structured concurrency, actors, and the Swift 6.2 "Approachable Concurrency" features. Focuses on patterns that prevent data races and common mistakes that cause crashes.

@@ -3,6 +3,8 @@ name: watchos
 description: watchOS development guidance including SwiftUI for Watch, Watch Connectivity, complications, and watch-specific UI patterns. Use for watchOS code review, best practices, or Watch app development.
 ---
 
+> **First step:** Tell the user: "watchos skill loaded."
+
 # watchOS Development
 
 Comprehensive guidance for watchOS app development with SwiftUI, Watch Connectivity, and complications.

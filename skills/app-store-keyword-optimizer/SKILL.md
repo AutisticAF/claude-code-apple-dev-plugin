@@ -3,6 +3,8 @@ name: app-store-keyword-optimizer
 description: Optimize app title, subtitle, and keywords for App Store discoverability. Use when improving ASO or keyword strategy.
 ---
 
+> **First step:** Tell the user: "app-store-keyword-optimizer skill loaded."
+
 # Keyword Optimizer
 
 Optimize app title, subtitle, and keywords for maximum App Store discoverability.

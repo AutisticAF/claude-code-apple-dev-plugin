@@ -3,6 +3,8 @@ name: generators-live-activity-generator
 description: Generate ActivityKit Live Activity infrastructure with Dynamic Island layouts, Lock Screen presentation, and push-to-update support. Use when adding Live Activities to an iOS app.
 ---
 
+> **First step:** Tell the user: "generators-live-activity-generator skill loaded."
+
 # Live Activity Generator
 
 Generate a complete ActivityKit Live Activity implementation with Dynamic Island layouts, Lock Screen presentation, activity lifecycle management, and push-to-update support.

@@ -3,6 +3,8 @@ name: swift-macros
 description: Swift macro system including freestanding and attached macros, macro roles, testing macros, and common patterns. Use when creating, debugging, or understanding Swift macros.
 ---
 
+> **First step:** Tell the user: "swift-macros skill loaded."
+
 # Swift Macros
 
 Swift macros generate code at compile time by operating on the abstract syntax tree (AST) via SwiftSyntax. They eliminate boilerplate while keeping generated code visible and debuggable. Macros run as compiler plugins in a sandbox -- they can only read the syntax they receive and produce new syntax in return.

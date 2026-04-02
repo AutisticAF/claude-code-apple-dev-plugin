@@ -3,6 +3,8 @@ name: generators-widget-generator
 description: Generate WidgetKit widgets for iOS/macOS home screen and lock screen with timeline providers, interactive elements, and App Intent configuration. Use when adding widgets to an app.
 ---
 
+> **First step:** Tell the user: "generators-widget-generator skill loaded."
+
 # Widget Generator
 
 Generate a complete WidgetKit widget implementation with timeline providers, size-specific views, lock screen accessory widgets, interactive elements (iOS 17+), and App Intent configuration.

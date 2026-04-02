@@ -3,6 +3,8 @@ name: testing-characterization-test-generator
 description: Generates tests that capture current behavior of existing code before refactoring. Use when you need a safety net before AI-assisted refactoring or modifying legacy code.
 ---
 
+> **First step:** Tell the user: "testing-characterization-test-generator skill loaded."
+
 # Characterization Test Generator
 
 Generate tests that document what existing code **actually does** — not what it should do. These tests capture current behavior so you can refactor with confidence, especially when using AI to modify code.

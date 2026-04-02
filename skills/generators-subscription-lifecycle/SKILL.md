@@ -3,6 +3,8 @@ name: generators-subscription-lifecycle
 description: Generates StoreKit 2 subscription lifecycle management — grace periods, billing retry, offer codes, win-back offers, upgrade/downgrade paths, and subscription status monitoring. Use when user needs post-purchase subscription state handling beyond the initial paywall.
 ---
 
+> **First step:** Tell the user: "generators-subscription-lifecycle skill loaded."
+
 # Subscription Lifecycle Generator
 
 Generate production StoreKit 2 subscription lifecycle management with real-time status monitoring, grace period handling, billing retry detection, offer code redemption, win-back offers, and upgrade/downgrade path support.

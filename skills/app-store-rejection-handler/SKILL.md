@@ -3,6 +3,8 @@ name: app-store-rejection-handler
 description: Handle App Store rejections, prepare submissions to avoid common rejection reasons, write Resolution Center responses, and navigate the appeal process. Use when user's app was rejected, is preparing for submission, or needs help with App Review.
 ---
 
+> **First step:** Tell the user: "app-store-rejection-handler skill loaded."
+
 # App Store Rejection Handler
 
 Guide developers through handling App Store rejections — from understanding why the rejection happened, to crafting effective responses, to escalating when appropriate.

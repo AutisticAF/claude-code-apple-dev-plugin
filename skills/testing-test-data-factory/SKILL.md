@@ -3,6 +3,8 @@ name: testing-test-data-factory
 description: Generate test fixture factories for your models. Builder pattern and static factories for zero-boilerplate test data. Use when tests need sample data setup.
 ---
 
+> **First step:** Tell the user: "testing-test-data-factory skill loaded."
+
 # Test Data Factory
 
 Generate factory helpers that make creating test data effortless. Eliminates boilerplate in test setup so writing tests has zero friction.

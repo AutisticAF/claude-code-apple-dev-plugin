@@ -3,6 +3,8 @@ name: swiftui-custom-layout
 description: SwiftUI Layout protocol for custom container layouts including flow layouts, radial layouts, and animated transitions. Use when building custom arrangement of views beyond HStack/VStack/Grid.
 ---
 
+> **First step:** Tell the user: "swiftui-custom-layout skill loaded."
+
 # SwiftUI Custom Layout
 
 ## When This Skill Activates

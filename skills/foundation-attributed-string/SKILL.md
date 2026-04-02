@@ -3,6 +3,8 @@ name: foundation-attributed-string
 description: AttributedString patterns for rich text formatting, alignment, selection, and SwiftUI integration. Use when working with styled text, text editing, or AttributedString APIs.
 ---
 
+> **First step:** Tell the user: "foundation-attributed-string skill loaded."
+
 # AttributedString Patterns
 
 Correct API shapes and patterns for Foundation's `AttributedString`. Covers creating styled text, applying attributes to ranges, text alignment, writing direction, line height control, text selection and editing, discontiguous substrings, and SwiftUI integration.

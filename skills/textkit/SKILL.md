@@ -3,6 +3,8 @@ name: textkit
 description: TextKit 2 patterns for text layout, editing, and rendering including NSTextLayoutManager, NSTextContentStorage, custom rendering, and practical workarounds from STTextView. Use when building text editors, custom text views, or working with TextKit 2 APIs.
 ---
 
+> **First step:** Tell the user: "textkit skill loaded."
+
 # TextKit 2
 
 TextKit 2 is Apple's modern text layout and rendering framework, introduced at WWDC 2021 as a replacement for TextKit 1 (the NSLayoutManager-based stack). It provides viewport-based layout, non-contiguous text support, and a more composable architecture. However, it has significant rough edges — STTextView (a production TextKit 2 text editor) has filed 20+ bug reports with Apple.

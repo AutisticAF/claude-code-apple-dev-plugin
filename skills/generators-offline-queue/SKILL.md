@@ -3,6 +3,8 @@ name: generators-offline-queue
 description: Generates an offline operation queue with persistence, automatic retry on connectivity, and conflict resolution. Use when user needs offline-first behavior, queued mutations, or pending operations that sync when back online.
 ---
 
+> **First step:** Tell the user: "generators-offline-queue skill loaded."
+
 # Offline Queue Generator
 
 Generate a production offline operation queue that persists API requests/mutations when offline, stores them to disk, and retries with exponential backoff when connectivity returns. Essential for apps that need offline-first behavior.

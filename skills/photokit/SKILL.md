@@ -3,6 +3,8 @@ name: photokit
 description: PhotoKit and PhotosPicker patterns for photo library access, asset fetching, image loading, and the SwiftUI PhotosPicker. Use when working with the user's photo library.
 ---
 
+> **First step:** Tell the user: "photokit skill loaded."
+
 # PhotoKit & PhotosPicker
 
 Patterns for accessing the photo library, picking media, fetching assets, loading images, and saving content. Covers SwiftUI PhotosPicker, PHPickerViewController, and full PHPhotoLibrary access.

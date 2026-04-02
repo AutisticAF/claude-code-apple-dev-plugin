@@ -3,6 +3,8 @@ name: swiftui-transferable
 description: SwiftUI Transferable protocol and drag-and-drop patterns including custom transfer representations, dropDestination, draggable, and clipboard integration. Use when implementing drag-and-drop or copy/paste.
 ---
 
+> **First step:** Tell the user: "swiftui-transferable skill loaded."
+
 # SwiftUI Transferable & Drag-and-Drop
 
 Patterns for the Transferable protocol, drag-and-drop, clipboard integration, ShareLink, and file import/export in SwiftUI.

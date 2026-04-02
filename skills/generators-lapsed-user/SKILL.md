@@ -3,6 +3,8 @@ name: generators-lapsed-user
 description: Generates lapsed user detection and re-engagement screens with personalized return experiences, win-back offers, and inactivity tracking. Use when user wants to re-engage inactive users, detect lapsed users, or build return flows.
 ---
 
+> **First step:** Tell the user: "generators-lapsed-user skill loaded."
+
 # Lapsed User Re-Engagement Generator
 
 Generate production infrastructure for detecting users who haven't opened the app in X days, showing personalized return screens that highlight what they missed, and optionally presenting win-back incentives to recover churned or lapsing users.

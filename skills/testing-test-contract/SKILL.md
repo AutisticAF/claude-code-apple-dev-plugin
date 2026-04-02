@@ -3,6 +3,8 @@ name: testing-test-contract
 description: Generate protocol/interface test suites that any implementation must pass. Define the contract once, test every implementation. Use when designing protocols or swapping implementations.
 ---
 
+> **First step:** Tell the user: "testing-test-contract skill loaded."
+
 # Test Contract
 
 Define behavioral contracts as test suites. Any class conforming to a protocol must pass the contract tests. Ensures consistent behavior across implementations — human-written, AI-generated, or mock.

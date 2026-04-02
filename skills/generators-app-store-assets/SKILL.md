@@ -3,6 +3,8 @@ name: generators-app-store-assets
 description: Comprehensive App Store asset specifications and guidelines for all promotional artwork — app icons, screenshots, app previews, event cards, subscription images, and featuring artwork. Use when preparing assets for App Store Connect upload.
 ---
 
+> **First step:** Tell the user: "generators-app-store-assets skill loaded."
+
 # App Store Assets Generator
 
 Generate complete asset specifications, design guidelines, and checklists for all App Store Connect promotional artwork and media.

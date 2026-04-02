@@ -3,6 +3,8 @@ name: ios-assistive-access
 description: Assistive Access implementation for cognitive accessibility including simplified scenes, navigation icons, runtime detection, and design principles. Use when optimizing apps for Assistive Access mode.
 ---
 
+> **First step:** Tell the user: "ios-assistive-access skill loaded."
+
 # Assistive Access
 
 Guide for implementing Assistive Access support in iOS and iPadOS apps. Assistive Access (iOS 17+/iPadOS 17+) provides a streamlined system experience for people with cognitive disabilities, presenting simplified interfaces with large controls and reduced complexity.

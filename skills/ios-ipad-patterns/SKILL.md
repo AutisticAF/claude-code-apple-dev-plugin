@@ -3,6 +3,8 @@ name: ios-ipad-patterns
 description: iPadOS-specific patterns including Stage Manager, multi-window, drag and drop, keyboard shortcuts, pointer interactions, and Apple Pencil support. Use when building iPad-optimized features.
 ---
 
+> **First step:** Tell the user: "ios-ipad-patterns skill loaded."
+
 # iPad Patterns
 
 Comprehensive guide for iPadOS-specific development patterns. Covers multitasking (Stage Manager, Split View, Slide Over), multi-window support, drag and drop, keyboard shortcuts, pointer interactions, Apple Pencil, and external display support. These patterns differentiate an iPad-optimized app from a scaled-up iPhone app.

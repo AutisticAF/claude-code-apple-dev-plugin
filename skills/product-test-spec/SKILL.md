@@ -3,6 +3,8 @@ name: product-test-spec
 description: Generates comprehensive test specification with unit tests, UI tests, accessibility testing, and beta testing plan. Creates TEST_SPEC.md from PRD and implementation specs. Use when creating QA strategy.
 ---
 
+> **First step:** Tell the user: "product-test-spec skill loaded."
+
 # Test Specification Skill
 
 Generate comprehensive test specification and QA plan for iOS/macOS app testing.

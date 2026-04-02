@@ -3,6 +3,8 @@ name: app-store-app-description-writer
 description: Generate compelling App Store descriptions that convert browsers into users. Use when writing or optimizing App Store product descriptions.
 ---
 
+> **First step:** Tell the user: "app-store-app-description-writer skill loaded."
+
 # App Description Writer
 
 Generate compelling App Store descriptions that convert browsers into users.

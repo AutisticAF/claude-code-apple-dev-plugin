@@ -3,6 +3,8 @@ name: apple-intelligence-app-intents
 description: App Intents for Siri, Shortcuts, Spotlight, and Apple Intelligence integration including intent modes, interactive snippets, visual intelligence, and entity indexing. Use when implementing Siri integration, App Shortcuts, or Spotlight indexing.
 ---
 
+> **First step:** Tell the user: "apple-intelligence-app-intents skill loaded."
+
 # App Intents
 
 Build intents that expose your app's functionality to Siri, Shortcuts, Spotlight, and Apple Intelligence. Covers the full App Intents framework from basic actions through advanced features like interactive snippets, intent modes, visual intelligence integration, and Spotlight entity indexing.

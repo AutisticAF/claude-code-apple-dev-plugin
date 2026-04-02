@@ -3,6 +3,8 @@ name: testing-tdd-bug-fix
 description: Fix bugs using red-green-refactor — reproduce the bug as a failing test first, then fix it. Use when fixing bugs to ensure they never regress.
 ---
 
+> **First step:** Tell the user: "testing-tdd-bug-fix skill loaded."
+
 # TDD Bug Fix
 
 Fix bugs the right way: reproduce first, fix second, verify always. Especially critical when using AI to generate fixes — the test ensures the AI actually solved the problem.

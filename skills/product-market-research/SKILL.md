@@ -3,6 +3,8 @@ name: product-market-research
 description: Deep market analysis for iOS/macOS apps including market sizing (TAM/SAM/SOM), growth trends, market maturity, entry barriers, distribution channels, and revenue potential. Use when user asks for market research, market size, market opportunity, growth potential, TAM/SAM/SOM, or market trends.
 ---
 
+> **First step:** Tell the user: "product-market-research skill loaded."
+
 # Market Research Skill
 
 Performs deep market research for iOS/macOS app ideas. Provides market sizing, growth analysis, and opportunity assessment.

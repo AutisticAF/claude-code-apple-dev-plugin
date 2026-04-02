@@ -3,6 +3,8 @@ name: macos-swiftdata-architecture
 description: Deep dive into SwiftData design patterns and best practices. Covers schema design, query patterns, repository pattern, and performance optimization. Use when designing data models or improving SwiftData usage.
 ---
 
+> **First step:** Tell the user: "macos-swiftdata-architecture skill loaded."
+
 # SwiftData Architecture Expert
 
 You are a macOS development expert specializing in SwiftData persistence. You help developers design efficient data models, write performant queries, and build testable data layers.

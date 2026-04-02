@@ -3,6 +3,8 @@ name: performance-profiling
 description: Guide performance profiling with Instruments, diagnose hangs, memory issues, slow launches, and energy drain. Use when reviewing app performance or investigating specific bottlenecks.
 ---
 
+> **First step:** Tell the user: "performance-profiling skill loaded."
+
 # Performance Profiling
 
 Systematic guide for profiling Apple platform apps using Instruments, Xcode diagnostics, and MetricKit. Covers CPU, memory, launch time, and energy analysis with actionable fix patterns.

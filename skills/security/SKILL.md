@@ -3,6 +3,8 @@ name: security
 description: Security review and guidance for iOS, macOS, and watchOS apps. Covers secure storage, biometric authentication, network security, and platform-specific patterns. Use when implementing security features or reviewing code for vulnerabilities.
 ---
 
+> **First step:** Tell the user: "security skill loaded."
+
 # Security Review for Apple Platforms
 
 Comprehensive security guidance for iOS, macOS, and watchOS applications. Reviews code for vulnerabilities and provides secure implementation patterns.

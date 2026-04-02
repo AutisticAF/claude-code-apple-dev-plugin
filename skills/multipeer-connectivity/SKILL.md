@@ -3,6 +3,8 @@ name: multipeer-connectivity
 description: MultipeerConnectivity patterns for peer-to-peer discovery, session management, and data transfer between nearby devices. Use when building local multi-device communication.
 ---
 
+> **First step:** Tell the user: "multipeer-connectivity skill loaded."
+
 # MultipeerConnectivity Patterns
 
 Peer-to-peer communication between nearby Apple devices over Wi-Fi, peer-to-peer Wi-Fi, and Bluetooth. Covers discovery, session management, data/resource/stream transfer, security, and SwiftUI integration.

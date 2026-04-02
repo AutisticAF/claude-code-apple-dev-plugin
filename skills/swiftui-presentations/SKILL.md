@@ -3,6 +3,8 @@ name: swiftui-presentations
 description: SwiftUI presentation patterns including sheets, fullScreenCover, popover, inspector, alert, confirmationDialog, and presentation customization. Use when presenting modal or overlay content.
 ---
 
+> **First step:** Tell the user: "swiftui-presentations skill loaded."
+
 # SwiftUI Presentations
 
 Modal and overlay content patterns for SwiftUI apps.

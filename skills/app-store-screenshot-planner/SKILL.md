@@ -3,6 +3,8 @@ name: app-store-screenshot-planner
 description: Plan compelling App Store screenshot sequences. Use when designing screenshot layouts or planning App Store visual assets.
 ---
 
+> **First step:** Tell the user: "app-store-screenshot-planner skill loaded."
+
 # Screenshot Planner
 
 Plan compelling App Store screenshot sequences that showcase your app's value.

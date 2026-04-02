@@ -3,6 +3,8 @@ name: swiftui-text-editing
 description: Styled text display and rich text editing in SwiftUI using Text, AttributedString, and TextEditor with formatting controls. Use when implementing rich text editing or styled text display.
 ---
 
+> **First step:** Tell the user: "swiftui-text-editing skill loaded."
+
 # Styled Text Editing
 
 Patterns for displaying styled text and building rich text editors in SwiftUI. Covers Text styling, AttributedString, TextEditor with selection-based formatting, and custom formatting definitions.

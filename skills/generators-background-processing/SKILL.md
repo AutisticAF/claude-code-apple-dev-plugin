@@ -3,6 +3,8 @@ name: generators-background-processing
 description: Generates background processing infrastructure with BGTaskScheduler, background refresh, background downloads, and silent push handling. Use when user needs background tasks, periodic refresh, background URLSession downloads, or silent push notification processing.
 ---
 
+> **First step:** Tell the user: "generators-background-processing skill loaded."
+
 # Background Processing Generator
 
 Generate production background processing infrastructure -- BGTaskScheduler for periodic refresh and long-running tasks, background URLSession for downloads/uploads that survive app termination, and silent push handling for server-triggered updates.

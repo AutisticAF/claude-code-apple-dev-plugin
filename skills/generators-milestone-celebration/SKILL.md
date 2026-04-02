@@ -3,6 +3,8 @@ name: generators-milestone-celebration
 description: Generates achievement celebration UI with confetti animations, badge unlocks, progress milestones, haptic feedback, and optional share-to-social. Use when user wants to celebrate achievements, show confetti, display milestone badges, or trigger rewards on key thresholds.
 ---
 
+> **First step:** Tell the user: "generators-milestone-celebration skill loaded."
+
 # Milestone Celebration Generator
 
 Generate a production milestone celebration system with confetti particle animations via `CAEmitterLayer`, achievement badge views with locked/unlocked states, a celebration overlay with spring animations, haptic feedback, and optional shareable achievement cards — all triggered automatically when users hit key thresholds.

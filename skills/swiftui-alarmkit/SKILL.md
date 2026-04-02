@@ -3,6 +3,8 @@ name: swiftui-alarmkit
 description: AlarmKit integration for scheduling alarms and timers with custom UI, Live Activities, and snooze support. Use when implementing alarm or timer features in iOS 18+ apps.
 ---
 
+> **First step:** Tell the user: "swiftui-alarmkit skill loaded."
+
 # AlarmKit
 
 Framework for scheduling alarms and countdown timers with custom UI, Live Activities integration, and focus/silent mode override. Prevents the most common mistakes: using the wrong authorization property name, omitting the Info.plist key, and forgetting the widget extension for countdown presentations.

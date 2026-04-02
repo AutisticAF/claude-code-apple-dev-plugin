@@ -3,6 +3,8 @@ name: swiftui-environment
 description: SwiftUI Environment and Preferences system including custom EnvironmentKey, EnvironmentValues, @Environment, preference keys, and the preference-environment data flow. Use when passing data through the view hierarchy.
 ---
 
+> **First step:** Tell the user: "swiftui-environment skill loaded."
+
 # SwiftUI Environment & Preferences
 
 Data propagation through the SwiftUI view hierarchy. Environment flows data downward from parent to child. Preferences flow data upward from child to parent.

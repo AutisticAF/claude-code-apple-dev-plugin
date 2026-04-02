@@ -3,6 +3,8 @@ name: app-store-marketing-strategy
 description: App Store marketing strategy advisor that analyzes your app and recommends the best promotional features. Orchestrates sub-skills for implementation. Use when planning app promotion, launch strategy, user acquisition, or re-engagement campaigns.
 ---
 
+> **First step:** Tell the user: "app-store-marketing-strategy skill loaded."
+
 # App Store Marketing Strategy
 
 Analyzes your app's type, monetization model, audience, and lifecycle stage, then builds a tailored promotional strategy using Apple's App Store features. Calls relevant sub-skills to generate implementation code and metadata.

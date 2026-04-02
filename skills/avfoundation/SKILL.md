@@ -3,6 +3,8 @@ name: avfoundation
 description: AVFoundation patterns for camera capture, video/audio playback, media editing, and audio sessions. Use when working with camera, microphone, video playback, or media processing.
 ---
 
+> **First step:** Tell the user: "avfoundation skill loaded."
+
 # AVFoundation Development Guide
 
 Patterns and best practices for camera capture, media playback, audio sessions, and media composition on Apple platforms.

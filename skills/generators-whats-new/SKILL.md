@@ -3,6 +3,8 @@ name: generators-whats-new
 description: Generates a "What's New" / changelog screen shown after app updates with version tracking, feature highlights, and one-time display per version. Use when user wants release notes UI, update notifications, or feature announcements.
 ---
 
+> **First step:** Tell the user: "generators-whats-new skill loaded."
+
 # What's New Generator
 
 Generate a complete "What's New" screen that displays after app updates — highlights new features, changes, and improvements with version tracking to ensure it only shows once per update.

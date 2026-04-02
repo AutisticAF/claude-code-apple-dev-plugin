@@ -3,6 +3,8 @@ name: musickit
 description: MusicKit patterns for Apple Music integration, catalog search, library access, playback control, and subscription status. Use when integrating Apple Music or ShazamKit.
 ---
 
+> **First step:** Tell the user: "musickit skill loaded."
+
 # MusicKit
 
 Apple Music integration, catalog search, library access, playback control, and audio recognition with ShazamKit.

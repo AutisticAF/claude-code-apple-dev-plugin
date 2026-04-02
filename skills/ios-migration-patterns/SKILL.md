@@ -3,6 +3,8 @@ name: ios-migration-patterns
 description: Migration guides for CoreData to SwiftData, UIKit to SwiftUI, ObservableObject to @Observable, XCTest to Swift Testing, Objective-C to Swift, and StoreKit 1 to StoreKit 2. Use when migrating between Apple framework generations.
 ---
 
+> **First step:** Tell the user: "ios-migration-patterns skill loaded."
+
 # Migration Patterns
 
 Comprehensive guides for migrating between Apple framework generations. Each guide covers the full before/after mapping, coexistence strategies, and common pitfalls.

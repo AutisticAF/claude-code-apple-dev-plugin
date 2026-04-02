@@ -3,6 +3,8 @@ name: generators-http-cache
 description: Generates an HTTP caching layer with Cache-Control parsing, ETag/conditional requests, and offline fallback. Use when user wants to add response caching, offline support, or reduce API calls.
 ---
 
+> **First step:** Tell the user: "generators-http-cache skill loaded."
+
 # HTTP Cache Generator
 
 Generate a production HTTP caching layer that integrates with your existing networking code. Supports Cache-Control directives, ETag/Last-Modified conditional requests, stale-while-revalidate, and offline fallback.

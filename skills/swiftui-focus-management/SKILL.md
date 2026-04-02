@@ -3,6 +3,8 @@ name: swiftui-focus-management
 description: SwiftUI focus and keyboard management including @FocusState, FocusedValue, keyboard toolbar, submit triggers, and text field navigation. Use when managing focus, keyboard behavior, or text input flow.
 ---
 
+> **First step:** Tell the user: "swiftui-focus-management skill loaded."
+
 # SwiftUI Focus Management
 
 Patterns for controlling focus, keyboard behavior, and text input navigation in SwiftUI. Covers single-field focus, multi-field form navigation, keyboard toolbars, submit handling, and cross-platform focus APIs.

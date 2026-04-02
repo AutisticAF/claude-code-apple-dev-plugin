@@ -3,6 +3,8 @@ name: swiftui-toolbars
 description: Modern SwiftUI toolbar patterns including customizable toolbars, search integration, transition effects, and platform-specific behavior. Use when implementing or customizing toolbars in SwiftUI.
 ---
 
+> **First step:** Tell the user: "swiftui-toolbars skill loaded."
+
 # SwiftUI Toolbars
 
 Modern toolbar patterns for SwiftUI apps. Covers customizable toolbars, enhanced search integration, new placements, transition effects, and platform-specific considerations.

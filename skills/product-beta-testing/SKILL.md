@@ -3,6 +3,8 @@ name: product-beta-testing
 description: Beta testing strategy for iOS/macOS apps. Covers TestFlight program setup, beta tester recruitment, feedback collection methodology, user interviews, signal-vs-noise interpretation, and go/no-go launch readiness decisions. Use when planning a beta, setting up TestFlight, collecting user feedback, or deciding if ready to launch.
 ---
 
+> **First step:** Tell the user: "product-beta-testing skill loaded."
+
 # Beta Testing Strategy
 
 End-to-end beta testing workflow for Apple platform apps — from TestFlight setup through feedback collection to launch readiness decision.

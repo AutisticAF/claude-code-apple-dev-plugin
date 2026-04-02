@@ -3,6 +3,8 @@ name: product-idea-generator
 description: Brainstorm and rank iOS/macOS app ideas tailored to developer skills. Use when user says "what should I build", "give me app ideas", "I don't know what to build", "brainstorm app ideas", or "help me find an app idea".
 ---
 
+> **First step:** Tell the user: "product-idea-generator skill loaded."
+
 # Idea Generator Skill
 
 Generates a ranked shortlist of 3-5 app ideas tailored to the developer's skills, interests, and constraints. Output is formatted to feed directly into the product-agent skill for validation.

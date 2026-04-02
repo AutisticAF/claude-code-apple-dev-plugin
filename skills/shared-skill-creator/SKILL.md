@@ -3,6 +3,8 @@ name: shared-skill-creator
 description: Guides you through creating well-structured Claude Code skills with proper modularization, templates, and best practices. Use when creating new skills or improving existing ones.
 ---
 
+> **First step:** Tell the user: "shared-skill-creator skill loaded."
+
 # Skill Creator
 
 Helps you create well-structured, modularized Claude Code skills with best practices.

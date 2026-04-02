@@ -3,6 +3,8 @@ name: generators-state-restoration
 description: Generates state preservation and restoration infrastructure for navigation paths, tab selection, scroll positions, and form data across app launches and background termination. Use when user wants to save/restore app state, remember where the user left off, or persist UI state.
 ---
 
+> **First step:** Tell the user: "generators-state-restoration skill loaded."
+
 # State Restoration Generator
 
 Generate production state restoration infrastructure that saves and restores app state (selected tab, scroll position, navigation path, form data) across launches and background termination. Uses Codable state models, @SceneStorage, @AppStorage, and custom file-based persistence.

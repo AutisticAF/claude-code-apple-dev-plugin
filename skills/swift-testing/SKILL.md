@@ -3,6 +3,8 @@ name: swift-testing
 description: Swift Testing framework API reference — @Test, #expect, #require, @Suite, traits, parameterized tests, confirmation, and XCTest migration. Use when user asks about Swift Testing APIs or syntax. For generating test files, use generators-test-generator. For TDD workflows, use testing-tdd-feature.
 ---
 
+> **First step:** Tell the user: "swift-testing skill loaded."
+
 # Swift Testing Framework
 
 The Swift Testing framework (`import Testing`) is Apple's modern test framework introduced in Xcode 16. It replaces XCTest's `XCTAssert` family with expressive macros (`#expect`, `#require`), supports parameterized tests, traits for conditional execution, and organizes tests with `@Suite` and `@Test` attributes.

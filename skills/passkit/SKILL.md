@@ -3,6 +3,8 @@ name: passkit
 description: PassKit and Apple Pay patterns for payment processing, Wallet passes, and in-app purchases via payment sheet. Use when integrating Apple Pay or creating Wallet passes.
 ---
 
+> **First step:** Tell the user: "passkit skill loaded."
+
 # PassKit and Apple Pay
 
 Payment processing, Wallet passes, and Apple Pay integration for iOS and macOS apps.

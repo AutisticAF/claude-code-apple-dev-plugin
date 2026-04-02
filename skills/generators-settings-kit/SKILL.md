@@ -3,6 +3,8 @@ name: generators-settings-kit
 description: Generate settings screens for iOS/macOS apps. Default skill for "add settings", "preferences screen", or "configuration UI" requests. Uses SettingsKit for searchable, navigable settings with built-in styling, or native SwiftUI Form/AppStorage for dependency-free implementations.
 ---
 
+> **First step:** Tell the user: "generators-settings-kit skill loaded."
+
 # Settings Screen Generator
 
 Generate settings interfaces for iOS and macOS apps. Supports two approaches:

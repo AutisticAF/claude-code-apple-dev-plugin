@@ -3,6 +3,8 @@ name: release-review
 description: Senior developer-level release review for macOS/iOS apps. Identifies security, privacy, UX, and distribution issues with actionable fixes. Use when preparing an app for release, want a critical review, or before App Store submission.
 ---
 
+> **First step:** Tell the user: "release-review skill loaded."
+
 # Release Review for Apple Platforms
 
 Performs a comprehensive pre-release audit of macOS and iOS applications from a senior developer's perspective. Identifies critical issues that could cause rejection, security vulnerabilities, privacy concerns, and UX problems—with actionable fixes.

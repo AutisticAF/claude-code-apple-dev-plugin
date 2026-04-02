@@ -3,6 +3,8 @@ name: swift-regex-builder
 description: Swift Regex builder DSL for type-safe pattern matching, captures, quantifiers, and Foundation parsers. Use when building complex regex patterns in Swift.
 ---
 
+> **First step:** Tell the user: "swift-regex-builder skill loaded."
+
 # Swift Regex Builder
 
 Type-safe regular expressions using Swift's `RegexBuilder` DSL. Covers `Regex` literals, the builder DSL, captures, quantifiers, character classes, anchors, Foundation parsers, and migration from `NSRegularExpression`.

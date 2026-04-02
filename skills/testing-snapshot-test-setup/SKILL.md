@@ -3,6 +3,8 @@ name: testing-snapshot-test-setup
 description: Set up SwiftUI visual regression testing with swift-snapshot-testing. Generates snapshot test boilerplate and CI configuration. Use for UI regression prevention.
 ---
 
+> **First step:** Tell the user: "testing-snapshot-test-setup skill loaded."
+
 # Snapshot Test Setup
 
 Generate SwiftUI snapshot/visual regression tests using Point-Free's swift-snapshot-testing library. Catches unintended UI changes by comparing rendered views against reference images.

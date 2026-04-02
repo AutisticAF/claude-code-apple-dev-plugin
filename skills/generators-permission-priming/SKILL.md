@@ -3,6 +3,8 @@ name: generators-permission-priming
 description: Generates pre-permission priming screens that explain benefits before showing iOS system permission dialogs. Use when user wants to increase permission grant rates, add pre-permission screens, or explain why the app needs access.
 ---
 
+> **First step:** Tell the user: "generators-permission-priming skill loaded."
+
 # Permission Priming Generator
 
 Generate pre-permission priming screens — shown before iOS system permission dialogs to explain WHY the app needs access. Dramatically increases permission grant rates vs. cold-prompting users with the system alert.

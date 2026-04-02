@@ -3,6 +3,8 @@ name: generators-auth-flow
 description: Generates authentication infrastructure with Sign in with Apple, biometrics, and Keychain storage. Use when user wants to add authentication, login, or Sign in with Apple.
 ---
 
+> **First step:** Tell the user: "generators-auth-flow skill loaded."
+
 # Auth Flow Generator
 
 Generate a complete authentication flow with Sign in with Apple, biometric authentication (Face ID/Touch ID), and secure Keychain storage.

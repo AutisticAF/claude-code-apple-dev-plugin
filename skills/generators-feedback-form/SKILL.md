@@ -3,6 +3,8 @@ name: generators-feedback-form
 description: Generates an in-app feedback collection form with category selection, text input, optional screenshot attachment, device diagnostics, and smart routing — directing happy users to App Store reviews and unhappy users to support. Use when user wants feedback, bug reports, feature requests, or contact support forms.
 ---
 
+> **First step:** Tell the user: "generators-feedback-form skill loaded."
+
 # Feedback Form Generator
 
 Generate a production in-app feedback form with category selection, sentiment-based rating, optional screenshot attachment, device diagnostics collection, and smart routing that funnels satisfied users to the App Store review prompt and dissatisfied users to a support channel.

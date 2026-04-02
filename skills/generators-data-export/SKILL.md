@@ -3,6 +3,8 @@ name: generators-data-export
 description: Generates data export/import infrastructure for JSON, CSV, PDF formats with GDPR data portability, share sheet integration, and file import. Use when user wants data export functionality, CSV/JSON/PDF export, GDPR compliance data portability, import from files, or share sheet for data.
 ---
 
+> **First step:** Tell the user: "generators-data-export skill loaded."
+
 # Data Export Generator
 
 Generate production data export and import infrastructure -- JSON export via Codable, CSV generation with proper escaping, PDF report rendering with UIGraphicsPDFRenderer, GDPR-compliant full data export, file import with UTType-based picker, and share sheet integration. No third-party dependencies.

@@ -3,6 +3,8 @@ name: ios-architecture-patterns
 description: iOS/macOS app architecture patterns including MVVM, MV (Model-View), TCA, dependency injection, and coordinator pattern. Use when choosing or implementing an app architecture.
 ---
 
+> **First step:** Tell the user: "ios-architecture-patterns skill loaded."
+
 # App Architecture Patterns
 
 Guide for choosing and implementing architecture patterns in SwiftUI apps for iOS, iPadOS, and macOS.

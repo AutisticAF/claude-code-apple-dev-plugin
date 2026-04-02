@@ -3,6 +3,8 @@ name: swiftui-observable
 description: SwiftUI @Observable macro patterns including migration from ObservableObject, @Bindable, fine-grained observation, and @Observable in SwiftUI views. Use when managing state with the Observation framework.
 ---
 
+> **First step:** Tell the user: "swiftui-observable skill loaded."
+
 # SwiftUI @Observable Patterns
 
 ## When This Skill Activates

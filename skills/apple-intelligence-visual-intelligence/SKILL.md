@@ -3,6 +3,8 @@ name: apple-intelligence-visual-intelligence
 description: Integrate your app with iOS Visual Intelligence for camera-based search and object recognition. Use when adding visual search capabilities.
 ---
 
+> **First step:** Tell the user: "apple-intelligence-visual-intelligence skill loaded."
+
 # Visual Intelligence
 
 Integrate your app with iOS Visual Intelligence to let users find app content by pointing their camera at objects.

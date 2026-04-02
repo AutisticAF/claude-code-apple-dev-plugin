@@ -3,6 +3,8 @@ name: generators-networking-layer
 description: Generates a protocol-based networking layer with async/await, error handling, and swappable implementations. Use when user wants to add API client, networking, or HTTP layer.
 ---
 
+> **First step:** Tell the user: "generators-networking-layer skill loaded."
+
 # Networking Layer Generator
 
 Generate a modern, protocol-based networking layer using Swift's async/await concurrency, with proper error handling and easy testability.

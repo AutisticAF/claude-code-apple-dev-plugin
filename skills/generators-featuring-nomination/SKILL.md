@@ -3,6 +3,8 @@ name: generators-featuring-nomination
 description: Generates App Store featuring nomination pitches with all required fields, compelling narratives, and Apple editorial angles. Use when submitting your app for App Store editorial featuring or preparing a self-nomination.
 ---
 
+> **First step:** Tell the user: "generators-featuring-nomination skill loaded."
+
 # Featuring Nomination Generator
 
 Generate a compelling App Store featuring nomination ready for submission, including all required fields, narrative pitch, and strategic timing.

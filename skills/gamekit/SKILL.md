@@ -3,6 +3,8 @@ name: gamekit
 description: GameKit patterns for Game Center authentication, leaderboards, achievements, matchmaking, and challenges. Use when integrating Game Center features.
 ---
 
+> **First step:** Tell the user: "gamekit skill loaded."
+
 # GameKit and Game Center
 
 ## When This Skill Activates

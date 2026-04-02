@@ -3,6 +3,8 @@ name: generators-app-clip
 description: Generates App Clip targets with invocation URL handling, lightweight experiences, and full app upgrade prompts. Use when user wants NFC/QR/Safari banner invocation, instant app experiences, or App Clip Card setup.
 ---
 
+> **First step:** Tell the user: "generators-app-clip skill loaded."
+
 # App Clip Generator
 
 Generate production App Clip infrastructure — a lightweight version of your app invoked from NFC tags, QR codes, Safari banners, or Messages. Includes App Clip target setup, invocation URL handling, experience routing, location confirmation, and full app upgrade flow.

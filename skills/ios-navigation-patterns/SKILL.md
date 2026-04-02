@@ -3,6 +3,8 @@ name: ios-navigation-patterns
 description: SwiftUI navigation architecture patterns including NavigationStack, NavigationSplitView, TabView, programmatic navigation, and custom transitions. Use when reviewing or building navigation, fixing navigation bugs, or architecting app flow.
 ---
 
+> **First step:** Tell the user: "ios-navigation-patterns skill loaded."
+
 # Navigation Patterns
 
 Comprehensive guide for SwiftUI navigation architecture on iOS, iPadOS, and macOS. Covers the modern navigation APIs (iOS 16+/macOS 13+) with patterns for common and advanced use cases.

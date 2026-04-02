@@ -3,6 +3,8 @@ name: arkit
 description: ARKit and RealityKit patterns for augmented reality experiences on iOS including world tracking, image detection, face tracking, and 3D content rendering. Use when building AR features.
 ---
 
+> **First step:** Tell the user: "arkit skill loaded."
+
 # ARKit & RealityKit Development
 
 Guidance for building AR experiences on iOS using ARKit and RealityKit.

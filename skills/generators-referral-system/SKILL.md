@@ -3,6 +3,8 @@ name: generators-referral-system
 description: Generates referral/invite infrastructure with unique codes, deep link sharing, reward tracking, and fraud prevention. Use when user wants referral codes, invite friends flow, or viral growth mechanics.
 ---
 
+> **First step:** Tell the user: "generators-referral-system skill loaded."
+
 # Referral System Generator
 
 Generate a production referral/invite system with unique code generation, deep link sharing, reward tracking, fraud prevention, and SwiftUI views for inviting friends and monitoring referral performance.

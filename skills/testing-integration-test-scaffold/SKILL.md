@@ -3,6 +3,8 @@ name: testing-integration-test-scaffold
 description: Generate cross-module test harness with mock servers, in-memory stores, and test configuration. Use when testing networking + persistence + business logic together.
 ---
 
+> **First step:** Tell the user: "testing-integration-test-scaffold skill loaded."
+
 # Integration Test Scaffold
 
 Generate test infrastructure for testing multiple modules working together — networking + persistence + business logic — without hitting real servers or databases.

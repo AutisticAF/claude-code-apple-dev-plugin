@@ -3,6 +3,8 @@ name: carplay
 description: CarPlay development patterns including CPTemplateApplicationScene, navigation, audio, communication, and EV charging templates. Use when building or adapting apps for CarPlay.
 ---
 
+> **First step:** Tell the user: "carplay skill loaded."
+
 # CarPlay Development
 
 Guidance for building CarPlay-enabled apps using the CarPlay framework, including template selection, scene lifecycle, navigation, audio, communication, and testing.

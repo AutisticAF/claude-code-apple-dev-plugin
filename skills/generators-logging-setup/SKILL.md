@@ -3,6 +3,8 @@ name: generators-logging-setup
 description: Generates structured logging infrastructure using os.log/Logger to replace print() statements. Use when user wants to add proper logging, replace print statements, or set up app logging.
 ---
 
+> **First step:** Tell the user: "generators-logging-setup skill loaded."
+
 # Logging Setup Generator
 
 Replace print() statements with Apple's structured logging system (os.log/Logger) for better debugging, privacy controls, and Console.app integration.

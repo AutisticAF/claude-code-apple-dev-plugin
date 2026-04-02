@@ -3,6 +3,8 @@ name: generators-quick-win-session
 description: Generates guided first-action flows that help users achieve a meaningful result within 60 seconds to boost retention. Use when user wants quick win onboarding, time-to-value optimization, or first success moments.
 ---
 
+> **First step:** Tell the user: "generators-quick-win-session skill loaded."
+
 # Quick Win Session Generator
 
 Generate a "quick win" session system that guides users to complete a meaningful action within their first 60 seconds. Reduces time-to-value by surfacing the simplest high-impact task, walking the user through it step by step, and celebrating completion. Critical for onboarding retention — users who achieve a quick win in the first minute are significantly more likely to return.

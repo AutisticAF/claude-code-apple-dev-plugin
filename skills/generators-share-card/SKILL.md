@@ -3,6 +3,8 @@ name: generators-share-card
 description: Generates shareable card images from app content (achievements, stats, quotes) for social media sharing. Use when user wants to create share images, social cards, shareable content cards, or export app content as images with ShareLink integration.
 ---
 
+> **First step:** Tell the user: "generators-share-card skill loaded."
+
 # Share Card Generator
 
 Generate a production share card system that renders app content (achievements, statistics, quotes, milestones) as shareable images with SwiftUI `ImageRenderer`, customizable styles, optional QR code overlays, and native `ShareLink` integration.

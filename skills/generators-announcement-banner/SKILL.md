@@ -3,6 +3,8 @@ name: generators-announcement-banner
 description: Generates an in-app announcement banner system with remote configuration, scheduling, deep link actions, and dismiss tracking. Use when user wants in-app banners, promotional notices, maintenance alerts, or contextual announcements.
 ---
 
+> **First step:** Tell the user: "generators-announcement-banner skill loaded."
+
 # Announcement Banner Generator
 
 Generate a configurable in-app announcement/banner system that displays contextual messages (maintenance alerts, new feature highlights, promotions) from remote config or local definitions. Supports dismissal, deep link actions, and scheduling.

@@ -3,6 +3,8 @@ name: generators-error-monitoring
 description: Generates protocol-based error/crash monitoring with swappable providers (Sentry, Crashlytics). Use when user wants to add crash reporting, error tracking, or production monitoring.
 ---
 
+> **First step:** Tell the user: "generators-error-monitoring skill loaded."
+
 # Error Monitoring Generator
 
 Generates a production-ready error monitoring infrastructure with protocol-based architecture for easy provider swapping.

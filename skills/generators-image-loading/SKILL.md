@@ -3,6 +3,8 @@ name: generators-image-loading
 description: Generates an image loading pipeline with memory/disk caching, deduplication, and a CachedAsyncImage SwiftUI view. Use when user wants image caching, lazy image loading, or a replacement for AsyncImage.
 ---
 
+> **First step:** Tell the user: "generators-image-loading skill loaded."
+
 # Image Loading Generator
 
 Generate a production image loading pipeline with NSCache memory cache, LRU disk cache, request deduplication, image processing, and a drop-in `CachedAsyncImage` SwiftUI view.

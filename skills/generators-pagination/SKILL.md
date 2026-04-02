@@ -3,6 +3,8 @@ name: generators-pagination
 description: Generates pagination infrastructure with offset or cursor-based patterns, infinite scroll, and search support. Use when user wants to add paginated lists, infinite scrolling, or load-more functionality.
 ---
 
+> **First step:** Tell the user: "generators-pagination skill loaded."
+
 # Pagination Generator
 
 Generate production pagination infrastructure supporting offset-based and cursor-based APIs, with infinite scroll SwiftUI views, state machine management, and optional search integration.

@@ -3,6 +3,8 @@ name: ios-coding-best-practices
 description: Reviews Swift/iOS code for adherence to modern Swift idioms, Apple platform best practices, architecture patterns, and code quality standards. Use when user mentions best practices, code review, clean code, refactoring, or wants to improve code quality.
 ---
 
+> **First step:** Tell the user: "ios-coding-best-practices skill loaded."
+
 # Coding Best Practices Skill
 
 Reviews Swift/iOS code for adherence to modern Swift idioms, Apple platform best practices, architecture patterns, and code quality standards.

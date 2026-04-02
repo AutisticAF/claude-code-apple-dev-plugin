@@ -3,6 +3,8 @@ name: visionos-widgets
 description: visionOS widget patterns including mounting styles, glass/paper textures, proximity-aware layouts, and spatial widget families. Use when creating or adapting widgets for visionOS.
 ---
 
+> **First step:** Tell the user: "visionos-widgets skill loaded."
+
 # visionOS Widgets
 
 Patterns for building widgets that live in physical space on visionOS. Covers mounting styles, textures, proximity-aware detail levels, spatial widget families, and rendering modes.

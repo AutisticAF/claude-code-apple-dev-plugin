@@ -3,6 +3,8 @@ name: security-privacy-manifests
 description: Privacy manifest (PrivacyInfo.xcprivacy) implementation including required reason APIs, tracking domains, third-party SDK declarations, and App Tracking Transparency. Use when preparing apps for App Store privacy requirements.
 ---
 
+> **First step:** Tell the user: "security-privacy-manifests skill loaded."
+
 # Privacy Manifests
 
 Advisory skill for implementing Apple's privacy manifest requirements. Privacy manifests (PrivacyInfo.xcprivacy) became mandatory for App Store submissions in Spring 2024. This skill covers the manifest file format, required reason APIs, tracking declarations, third-party SDK privacy, and App Tracking Transparency.

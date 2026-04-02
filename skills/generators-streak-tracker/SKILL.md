@@ -3,6 +3,8 @@ name: generators-streak-tracker
 description: Generates a streak tracking system with timezone-aware day boundaries, streak freeze protection, and streak-at-risk push notifications. Use when user wants daily/weekly engagement streaks, consecutive day tracking, or habit tracking.
 ---
 
+> **First step:** Tell the user: "generators-streak-tracker skill loaded."
+
 # Streak Tracker Generator
 
 Generate a production streak tracking system that records consecutive days of user activity, calculates current and longest streaks, handles timezone-aware day boundaries, supports streak freeze/protection passes, and schedules streak-at-risk local notifications.

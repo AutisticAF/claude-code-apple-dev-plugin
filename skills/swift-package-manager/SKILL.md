@@ -3,6 +3,8 @@ name: swift-package-manager
 description: Swift Package Manager patterns for creating packages, multi-module projects, dependency management, plugins, and local packages. Use when structuring Swift projects with SPM.
 ---
 
+> **First step:** Tell the user: "swift-package-manager skill loaded."
+
 # Swift Package Manager
 
 Comprehensive guidance for structuring Swift projects with SPM, from single libraries to multi-module apps.

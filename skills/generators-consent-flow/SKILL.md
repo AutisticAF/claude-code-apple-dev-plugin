@@ -3,6 +3,8 @@ name: generators-consent-flow
 description: Generates GDPR/CCPA/DPDP privacy consent flows with granular category preferences, consent state persistence, audit logging, and ATT (App Tracking Transparency) integration. Use when user needs privacy consent UI, cookie/tracking consent, or compliance management.
 ---
 
+> **First step:** Tell the user: "generators-consent-flow skill loaded."
+
 # Consent Flow Generator
 
 Generate a production privacy consent system with granular category-based consent, persistent state management, a consent banner and preferences UI, audit logging for compliance, and App Tracking Transparency integration.

@@ -3,6 +3,8 @@ name: generators-feature-flags
 description: Generate feature flag infrastructure with local defaults, remote configuration, SwiftUI integration, and debug menu. Use when adding feature flags or A/B testing to iOS/macOS apps.
 ---
 
+> **First step:** Tell the user: "generators-feature-flags skill loaded."
+
 # Feature Flags Generator
 
 Generate a complete feature flag infrastructure with typed flag definitions, protocol-based providers (local, remote, composite), SwiftUI environment integration, an `@Observable` manager, and a debug menu for toggling flags at runtime.

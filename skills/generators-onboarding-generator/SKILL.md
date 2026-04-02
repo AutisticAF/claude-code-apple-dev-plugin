@@ -3,6 +3,8 @@ name: generators-onboarding-generator
 description: Generates multi-step onboarding flows with persistence for iOS/macOS apps. Use when user wants to add onboarding, welcome screens, or first-launch experience.
 ---
 
+> **First step:** Tell the user: "generators-onboarding-generator skill loaded."
+
 # Onboarding Generator
 
 Generate a complete, customizable onboarding flow with persistence, animations, and accessibility support.

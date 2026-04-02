@@ -3,6 +3,8 @@ name: generators-product-page-optimization
 description: Generates A/B test plans and optimization checklists for your App Store product page — icon, screenshots, and app previews. Use when running Product Page Optimization tests or improving conversion rates.
 ---
 
+> **First step:** Tell the user: "generators-product-page-optimization skill loaded."
+
 # Product Page Optimization Generator
 
 Create structured A/B test plans for App Store Product Page Optimization (PPO), including test hypotheses, variant designs, success metrics, and iteration strategy.

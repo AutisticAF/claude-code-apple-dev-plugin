@@ -3,6 +3,8 @@ name: generators-win-back-offers
 description: Generates the complete win-back offer flow for churned subscribers — StoreKit Message API handling, eligibility verification, offer sheet presentation, and analytics. Use when implementing win-back campaigns or re-engagement for lapsed subscribers.
 ---
 
+> **First step:** Tell the user: "generators-win-back-offers skill loaded."
+
 # Win-Back Offers Generator
 
 Generate a complete win-back flow for recovering churned subscribers using StoreKit 2's win-back offer APIs (iOS 18+), Message API handling, and fallback promotional offers for older OS versions.

@@ -3,6 +3,8 @@ name: healthkit
 description: HealthKit patterns for reading/writing health data, workout sessions, background delivery, and HealthKit UI. Use when integrating health and fitness data in iOS or watchOS apps.
 ---
 
+> **First step:** Tell the user: "healthkit skill loaded."
+
 # HealthKit Integration
 
 Patterns and guidance for reading, writing, and observing health and fitness data on iOS and watchOS using HealthKit.

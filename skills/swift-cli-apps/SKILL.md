@@ -3,6 +3,8 @@ name: swift-cli-apps
 description: Swift command-line application patterns including ArgumentParser, async commands, terminal I/O, TUI apps with SwifTeaUI, and distribution via Homebrew. Use when building CLI tools or terminal user interfaces in Swift.
 ---
 
+> **First step:** Tell the user: "swift-cli-apps skill loaded."
+
 # Swift Command-Line Applications
 
 Patterns for building command-line tools and terminal user interfaces in Swift, covering ArgumentParser for argument parsing, async commands, terminal I/O, TUI apps with SwifTeaUI, and distribution.

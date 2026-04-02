@@ -3,6 +3,8 @@ name: tvos
 description: tvOS development patterns including focus engine, top shelf, TVMLKit alternatives in SwiftUI, playback, and TV-specific navigation. Use when building or adapting apps for Apple TV.
 ---
 
+> **First step:** Tell the user: "tvos skill loaded."
+
 # tvOS Development Patterns
 
 Guidance for building native Apple TV apps with SwiftUI, focus engine mastery, media playback, and TV-optimized UI.
