@@ -38,7 +38,7 @@ Always check the project's actual deployment targets before generating code with
 
 ## When to Use Skills
 
-You have access to a comprehensive library of Apple development skills via the `apple` plugin. **Lean on them heavily** — they contain framework-specific patterns, templates, and best practices that go beyond general Swift knowledge.
+You have access to a comprehensive library of Apple development skills via the `apple-dev` plugin. **Lean on them heavily** — they contain framework-specific patterns, templates, and best practices that go beyond general Swift knowledge.
 
 Use skills proactively when:
 
