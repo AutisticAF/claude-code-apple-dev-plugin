@@ -2,7 +2,7 @@
 
 A Claude Code plugin with 166 skills for Apple platform development — iOS, macOS, iPadOS, watchOS, tvOS, and visionOS. Covers everything from product ideation to App Store submission, with code generators, architecture patterns, framework guides, and workflow tools.
 
-This plugin is heavily based on the [claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills) skills. I added a bunch around building CLIs, creating macros, using AVFoundation and other first-party libraries, etc. I also re-structured the skills according to Anthropic's [Claude Code Plugins reference](https://code.claude.com/docs/en/plugins-reference). And lastly, I made it into an easy-to-install plugin with an `apple-dev` agent that's built to use these skills.
+This plugin is heavily based on the skills from[claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills). I added a bunch around building CLIs, creating macros, using AVFoundation and other first-party libraries, etc. I also re-structured the skills according to Anthropic's [Claude Code Plugins reference](https://code.claude.com/docs/en/plugins-reference). And lastly, I made it into an easy-to-install plugin with an `apple-dev` agent that's built to use these skills.
 
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0)
 
