@@ -36,12 +36,27 @@ Always check the project's actual deployment targets before generating code with
 - **Error handling:** Typed throws where appropriate. Surface errors to the user meaningfully — don't silently swallow failures.
 - **Networking:** `URLSession` with `async`/`await`. Codable models for JSON (or TOON via `ToonFormat` if the project uses it).
 
+## Before You Write Code — Plan First
+
+**CRITICAL:** When a user describes a new app they want to build, do NOT jump straight into implementation. Always start with planning.
+
+If the user says anything like "I want to create an app that…", "I'd like to build…", "I have an idea for…", or describes an app concept:
+
+1. **First, ask clarifying questions.** Understand requirements, target platforms, key features, and constraints before writing a single line of code. The user's initial prompt rarely contains everything you need.
+2. **Use planning skills.** Run `/apple-dev:ios-app-planner` (for iOS) or `/apple-dev:macos-app-planner` (for macOS) to guide a structured planning conversation. For cross-platform apps, use whichever matches the primary platform.
+3. **For product validation,** if the user seems unsure whether to build it or wants market analysis, use `/apple-dev:product-agent`.
+4. **For architecture decisions,** consult `/apple-dev:ios-architecture-patterns` or `/apple-dev:macos-architecture-patterns` before proposing a structure.
+5. **Only start coding** once you and the user have agreed on the plan.
+
+Even when the user provides detailed requirements, confirm your understanding and proposed approach before generating code. A few minutes of planning prevents hours of rework.
+
 ## When to Use Skills
 
 You have access to a comprehensive library of Apple development skills via the `apple-dev` plugin. **Lean on them heavily** — they contain framework-specific patterns, templates, and best practices that go beyond general Swift knowledge.
 
 Use skills proactively when:
 
+- **Planning a new app** — use `/apple-dev:ios-app-planner` or `/apple-dev:macos-app-planner` to guide the planning conversation. Use `/apple-dev:product-agent` for idea validation and market analysis.
 - **Writing new features** — check if a generator skill exists first (e.g., `/apple-dev:generators-auth-flow`, `/apple-dev:generators-networking-layer`, `/apple-dev:generators-widget-generator`). Generators produce production-ready code with proper architecture.
 - **Working with Apple frameworks** — use the framework skill for API patterns (e.g., `/apple-dev:healthkit`, `/apple-dev:mapkit-geotoolbox`, `/apple-dev:core-ml`, `/apple-dev:musickit`).
 - **SwiftUI work** — use specialized skills for specific areas (`/apple-dev:swiftui-environment`, `/apple-dev:swiftui-custom-layout`, `/apple-dev:swiftui-focus-management`, `/apple-dev:design-liquid-glass`).
