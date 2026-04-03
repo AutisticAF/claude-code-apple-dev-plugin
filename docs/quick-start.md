@@ -31,13 +31,13 @@ claude --plugin-dir ./claude-code-apple-dev-plugin
 The plugin includes a specialized agent that proactively uses skills based on your context:
 
 ```bash
-claude --agent apple-dev
+claude --agent apple-dev:dev
 ```
 
 Or during local development:
 
 ```bash
-claude --plugin-dir ./claude-code-apple-dev-plugin --agent apple-dev
+claude --plugin-dir ./claude-code-apple-dev-plugin --agent apple-dev:dev
 ```
 
 ## First Use

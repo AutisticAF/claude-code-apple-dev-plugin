@@ -181,7 +181,7 @@ This repo is a Claude Code plugin. The structure is:
 ```
 .claude-plugin/plugin.json    # Plugin manifest (name, version, author)
 .lsp.json                     # Swift LSP configuration (sourcekit-lsp)
-agents/apple-dev.md           # Apple platform developer agent
+agents/dev.md                 # Apple platform developer agent
 skills/                       # All 166 skills
 docs/                         # Usage guide, roadmap
 ```
@@ -190,7 +190,7 @@ When modifying non-skill files:
 
 - **plugin.json**: Update `version` for releases
 - **.lsp.json**: Only modify if LSP configuration needs change
-- **agents/apple-dev.md**: Update if new skill categories are added or conventions change
+- **agents/dev.md**: Update if new skill categories are added or conventions change
 
 ## Testing Your Changes
 

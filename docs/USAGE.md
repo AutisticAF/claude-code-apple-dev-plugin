@@ -195,7 +195,7 @@ watchOS: Yes, there's a dedicated `watchos` skill covering Watch apps, complicat
 visionOS: Yes, there are `visionos-spatial-computing` (immersive spaces, RealityKit) and `visionos-widgets` skills.
 
 ### What is the Apple Dev agent?
-The plugin includes an `apple-dev` agent that proactively uses skills based on your project context. Run it with `claude --agent apple-dev`.
+The plugin includes an `apple-dev:dev` agent that proactively uses skills based on your project context. Run it with `claude --agent apple-dev:dev`.
 
 ### Where are the detailed skill docs?
 Each skill has a `SKILL.md` with full documentation. Browse the `skills/` directory.

@@ -1,6 +1,6 @@
 {
 	"name": "apple-dev",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "Apple platform development skills for iOS, macOS, iPadOS, watchOS, tvOS, and visionOS — covering SwiftUI, Swift, SwiftData, frameworks, App Store, testing, architecture, code generation, and product workflows.",
 	"author": {
 		"name": "Alex Karp",

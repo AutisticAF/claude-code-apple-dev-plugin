@@ -2,7 +2,7 @@
 
 A Claude Code plugin with 166 skills for Apple platform development — iOS, macOS, iPadOS, watchOS, tvOS, and visionOS. Covers everything from product ideation to App Store submission, with code generators, architecture patterns, framework guides, and workflow tools.
 
-This plugin is heavily based on the skills from[claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills). I added a bunch around building CLIs, creating macros, using AVFoundation and other first-party libraries, etc. I also re-structured the skills according to Anthropic's [Claude Code Plugins reference](https://code.claude.com/docs/en/plugins-reference). And lastly, I made it into an easy-to-install plugin with an `apple-dev` agent that's built to use these skills.
+This plugin is heavily based on the skills from[claude-code-apple-skills](https://github.com/rshankras/claude-code-apple-skills). I added a bunch around building CLIs, creating macros, using AVFoundation and other first-party libraries, etc. I also re-structured the skills according to Anthropic's [Claude Code Plugins reference](https://code.claude.com/docs/en/plugins-reference). And lastly, I made it into an easy-to-install plugin with an `apple-dev:dev` agent that's built to use these skills.
 
 [![License: PolyForm Noncommercial](https://img.shields.io/badge/License-PolyForm%20Noncommercial-blue.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0)
 
@@ -26,14 +26,14 @@ claude --plugin-dir ./claude-code-apple-dev-plugin
 
 ### With the Apple Dev Agent
 
-The plugin includes an `apple-dev` agent — an Opus-powered Apple platform expert that proactively uses the plugin's skills:
+The plugin includes an `apple-dev:dev` agent — an Opus-powered Apple platform expert that proactively uses the plugin's skills:
 
 ```bash
 # Use as session agent
-claude --agent apple-dev
+claude --agent apple-dev:dev
 
 # Or with local plugin during development
-claude --plugin-dir ./claude-code-apple-dev-plugin --agent apple-dev
+claude --plugin-dir ./claude-code-apple-dev-plugin --agent apple-dev:dev
 ```
 
 ## What's Included
@@ -43,7 +43,7 @@ claude --plugin-dir ./claude-code-apple-dev-plugin --agent apple-dev
 ```
 .claude-plugin/plugin.json    # Plugin manifest
 .lsp.json                     # Swift LSP (sourcekit-lsp) configuration
-agents/apple-dev.md           # Apple platform developer agent
+agents/dev.md                 # Apple platform developer agent
 skills/                       # 166 skills (flat directory structure)
 ```
 
@@ -146,7 +146,7 @@ The plugin configures `sourcekit-lsp` automatically, giving Claude access to Swi
 
 ### Apple Dev Agent
 
-The `apple-dev` agent establishes modern Apple development defaults:
+The `apple-dev:dev` agent establishes modern Apple development defaults:
 
 - SwiftUI-first, Swift 6+ with strict concurrency
 - MVVM with `@Observable`, `NavigationStack`, protocol-based DI

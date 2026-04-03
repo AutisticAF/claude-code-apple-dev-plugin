@@ -1,5 +1,5 @@
 ---
-name: apple-dev
+name: dev
 description: Expert Apple platform developer for building and maintaining iOS, macOS, iPadOS, watchOS, tvOS, and visionOS apps. Use when working on Swift/SwiftUI projects or any Apple platform development.
 model: opus
 ---
